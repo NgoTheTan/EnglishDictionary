@@ -1,0 +1,4 @@
+hello;xin chào
+house;ngôi nhà
+love;yêu thương, yêu quý
+like;thích

@@ -1,22 +1,41 @@
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
-import java.util.Scanner;
+import java.io.InputStreamReader;
+import java.util.*;
 
 public class DictionaryManagement extends Dictionary {
     /**
      * Insert words from the command line to the dictionary.
      */
     public static void insertFromCommandline() {
-        Scanner input = new Scanner(System.in);
-        int n = input.nextInt();
-        input.nextLine();
-        for (int i = 0; i < n; i++) {
-            String english = input.nextLine();
-            String meaning = input.nextLine();
-            Word newWord = new Word(english, meaning);
-            map.put(english, newWord);
+        try {
+            BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+            BufferedWriter bw = new BufferedWriter(new FileWriter("D:\\Study\\java\\EnglishDictionary\\src\\dictionaries.txt"));
+            System.out.print("Number of words: ");
+            int n = Integer.parseInt(br.readLine());
+            for (int i = 0; i < n; i++) {
+                System.out.print("English: ");
+                String english = br.readLine();
+                System.out.print("Vietnamese: ");
+                String meaning = br.readLine();
+                Word newWord = new Word(english, meaning);
+                map.put(english, newWord);
+                numberOfWords++;
+            }
+            for (String key : map.keySet()) {
+                bw.write(key);
+                bw.write(";");
+                bw.write(map.get(key).getMeaning());
+                bw.write("\n");
+            }
+            bw.close();
+        } catch (IOException e) {
+            System.out.println(e.getMessage());
         }
-        input.close();
+
     }
 
     /**
@@ -34,20 +53,8 @@ public class DictionaryManagement extends Dictionary {
             String meaning = temp[1];
             Word newWord = new Word(english, meaning);
             map.put(english, newWord);
+            numberOfWords++;
         }
         scanner.close();
-    }
-
-    /**
-     * Read all the words in the dictionary.
-     */
-    public static void readAllWords() {
-        System.out.format("%-5s %-2s %-15s %-2s %-20s\n", "No", "|", "English", "|", "Vietnamese");
-        for (String key : map.keySet()) {
-            int i = 1;
-            System.out.format("%-5s %-2s %-15s %-2s %-20s\n", String.valueOf(i), "|", key, "|",
-                    map.get(key).getMeaning());
-            i++;
-        }
     }
 }

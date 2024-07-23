@@ -1,4 +1,5 @@
-hello;xin chào
-house;ngôi nhà
-love;yêu thương, yêu quý
-like;thích
+love;yeu thuong, yeu quy
+study;hoc tap, nghien cuu
+like;thich
+hello;xin chao
+house;ngoi nha

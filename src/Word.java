@@ -27,7 +27,7 @@ public class Word {
      * @param meaning The meaning of the word.
      */
     public Word(String english, String meaning) {
-        this.english = english;
-        this.meaning = meaning;
+        this.english = english.toLowerCase();
+        this.meaning = meaning.toLowerCase();
     }
 }

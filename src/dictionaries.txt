@@ -1,5 +1,6 @@
 love;yeu thuong, yeu quy
 study;hoc tap, nghien cuu
 like;thich
-hello;xin chao
+person;con nguoi (so it)
 house;ngoi nha
+people;con nguoi (so nhieu)

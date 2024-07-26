@@ -1,6 +1,9 @@
-love;yeu thuong, yeu quy
-study;hoc tap, nghien cuu
-like;thich
-person;con nguoi (so it)
-house;ngoi nha
-people;con nguoi (so nhieu)
+love;yêu thương, yêu quý
+study;học tập, nghiên cứu
+like;thích ai đó, cái gì
+student;học sinh, vinh viên
+person;con người (số ít)
+hello;xin chào
+shout;nói to
+house;ngôi nhà
+people;con người (số nhiều)

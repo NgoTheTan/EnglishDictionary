@@ -1,4 +1,4 @@
-public class Word {
+public class Word implements Comparable<Word> {
     private String english;
     private String meaning;
 
@@ -29,5 +29,9 @@ public class Word {
     public Word(String english, String meaning) {
         this.english = english.toLowerCase();
         this.meaning = meaning.toLowerCase();
+    }
+    
+    public int compareTo(Word o) {
+        return this.english.compareTo(o.english);
     }
 }

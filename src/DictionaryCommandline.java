@@ -20,7 +20,7 @@ public class DictionaryCommandline extends DictionaryManagement {
         }
     }
 
-    public static void dictionarySearcher() {
+    public static void commandSearcher() {
         try {
             BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
             boolean found = false;
@@ -29,7 +29,7 @@ public class DictionaryCommandline extends DictionaryManagement {
             int i = 0;
             String res = "";
             for (String key : map.keySet()) {
-                if (key.contains(temp)) {
+                if (key.startsWith(temp)) {
                     found = true;
                     i++;
                     res = res + String.format("%-5s %-2s %-15s %-2s %-20s\n", i, "|", key,
@@ -52,7 +52,7 @@ public class DictionaryCommandline extends DictionaryManagement {
     /**
      * Do command.
      */
-    public static void dictionaryBasic() {
+    public static void dictionaryCommand() {
         Scanner input = new Scanner(System.in);
         System.out.println("Hello to my English - Vietnamese dictionary!");
         while (true) {
@@ -70,7 +70,7 @@ public class DictionaryCommandline extends DictionaryManagement {
                 input.close();
                 break;
             } else if (i == 1) {
-                dictionarySearcher();
+                commandSearcher();
             } else if (i == 3) {
                 insertFromCommandline();
             } else if (i == 2) {

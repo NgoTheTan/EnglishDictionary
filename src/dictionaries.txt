@@ -1,9 +1,24 @@
 love;yêu thương, yêu quý
+allow;cho phép, để cho
+area;diện tích, bề mặt
 study;học tập, nghiên cứu
+art;nghệ thuật, mỹ thuật
 like;thích ai đó, cái gì
 student;học sinh, vinh viên
-person;con người (số ít)
-hello;xin chào
-shout;nói to
+strawberry;dâu tây
+agree;đồng ý, tán thành
+air;không khí, bầu không khí
+grape;nho
 house;ngôi nhà
 people;con người (số nhiều)
+anger;sự tức giận
+orange;quả cam
+apple;quả táo
+abandon;bỏ, từ bỏ
+answer;sự trả lời, trả lời
+person;con người (số ít)
+able;có năng lực, có tài
+baby;đứa trẻ
+above;ở trên, lên trên
+hello;xin chào
+shout;nói to

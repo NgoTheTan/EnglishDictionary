@@ -10,8 +10,8 @@ public class DictionaryManagement extends Dictionary {
     /**
      * Insert words from the command line to the dictionary.
      */
-    public static void insertWord(String english, String meaning) {
-        Word newWord = new Word(english, meaning);
+    public static void insertWord(String english, List<String> meaning, List<String> type, String pronuciation) {
+        Word newWord = new Word(english, meaning, type, pronuciation);
         map.put(english, newWord);
         change = true;
     }
@@ -28,8 +28,22 @@ public class DictionaryManagement extends Dictionary {
             String line = scanner.nextLine();
             String[] temp = line.split(";");
             String english = temp[0];
-            String meaning = temp[1];
-            Word newWord = new Word(english, meaning);
+            List<String> meaning = new ArrayList<>();
+            List<String> type = new ArrayList<>();
+            if (temp[2].contains("/")) {
+                String[] typeAndMeaning = temp[2].split("/");
+                for (int i = 0; i < typeAndMeaning.length; i++) {
+                    String[] temp2 = typeAndMeaning[i].split(":");
+                    type.add(temp2[0]);
+                    meaning.add(temp2[1]);
+                }
+            } else {
+                String[] typeAndMeaning =  temp[2].split(":");
+                type.add(typeAndMeaning[0]);
+                meaning.add(typeAndMeaning[1]);
+            }
+            String pronunciation = temp[1];
+            Word newWord = new Word(english, meaning, type, pronunciation);
             map.put(english, newWord);
         }
         scanner.close();
@@ -38,8 +52,8 @@ public class DictionaryManagement extends Dictionary {
     /**
      * Adjust a meaning of a word in the dictionary.
      */
-    public static void adjustWord(String english, String meaning) {
-        Word newWord = new Word(english, meaning);
+    public static void adjustWord(String english, List<String> meaning, List<String> type, String pronunciation) {
+        Word newWord = new Word(english, meaning, type, pronunciation);
         map.put(english, newWord);
         change = true;
     }
@@ -63,7 +77,18 @@ public class DictionaryManagement extends Dictionary {
             for (String key : map.keySet()) {
                 bw.write(key);
                 bw.write(";");
-                bw.write(map.get(key).getMeaning());
+                bw.write(map.get(key).getPronuciation());
+                bw.write(";");
+                int temp = map.get(key).getType().size();
+                for (int i = 0; i < temp - 1; i++) {
+                    bw.write(map.get(key).getType().get(i));
+                    bw.write(":");
+                    bw.write(map.get(key).getMeaning().get(i));
+                    bw.write("/");
+                }
+                bw.write(map.get(key).getType().get(temp-1));
+                bw.write(":");
+                bw.write(map.get(key).getMeaning().get(temp-1));
                 bw.write("\n");
             }
             bw.close();

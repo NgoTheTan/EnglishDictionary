@@ -50,15 +50,32 @@ public class MyButton extends JButton {
      * @param background
      * @param border
      */
-    public MyButton(int x, int y, int width, int length, boolean visible, boolean usable,
+    public MyButton(int x, int y, int width, int height, boolean visible, boolean usable,
             int xAlignment, int yAlignment, ImageIcon icon, Color background, Border border) {
-        super.setBounds(x, y, width, length);
+        super.setBounds(x, y, width, height);
         super.setVisible(visible);
         super.setEnabled(usable);
         super.setBackground(background);
         super.setHorizontalAlignment(xAlignment);
         super.setVerticalAlignment(yAlignment);
         super.setIcon(icon);
+        super.setBorder(border);
+    }
+
+    public MyButton(int x, int y, int width, int height, String text, Font font, ImageIcon icon, boolean visible,
+            boolean usable, int xAlignment, int yAlignment, int xTextPosition, int yTextPosition, 
+            Color background, Border border) {
+        super.setBounds(x, y, width, height);
+        super.setVisible(visible);
+        super.setEnabled(usable);
+        super.setIcon(icon);
+        super.setText(text);
+        super.setFont(font);
+        super.setBackground(background);
+        super.setHorizontalAlignment(xAlignment);
+        super.setVerticalAlignment(yAlignment);
+        super.setHorizontalTextPosition(xTextPosition);
+        super.setVerticalTextPosition(yTextPosition);
         super.setBorder(border);
     }
 }

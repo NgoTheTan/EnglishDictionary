@@ -6,7 +6,7 @@ import javax.swing.JFrame;
 public class MyFrame extends JFrame {
     public MyFrame() {
         super("English Dictionary");
-        this.setSize(500, 400);
+        this.setSize(550, 400);
         this.setResizable(false);
         ImageIcon image = new ImageIcon("D:\\Study\\java\\EnglishDictionary\\src\\image\\icon.jpg");
         this.setIconImage(image.getImage());

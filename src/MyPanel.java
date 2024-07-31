@@ -24,6 +24,10 @@ public class MyPanel extends JPanel{
         for (Component c : this.getComponents()) {
             c.setEnabled(set);
             c.setVisible(set);
+            if (c instanceof MyTextField) {
+                MyTextField t = (MyTextField) c;
+                t.setText(null);
+            }
         }
     }
 }

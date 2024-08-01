@@ -21,14 +21,15 @@ import javax.swing.JOptionPane;
 import javax.swing.JTextField;
 
 public class DictionaryApplication extends DictionaryManagement {
-    public static final Set<Character> NOT_ALPHABET = Set.of('`', '~', '1', '!', '2', '@', '3', '#', '4', '$', '5', '%',
-            '6', '^', '7', '&', '8', '*', '9', '(', '0', ')', '-', '_', '=', '+', '{', '[', ']', '}', '|', ':', ';',
-            '"', ',', '<', '.', '>', '/', '?', ' ');
+    public static final Set<Character> NOT_ALPHABET = Set.of('`', '~', '1', '!', '2', '@', '3',
+            '#', '4', '$', '5', '%', '6', '^', '7', '&', '8', '*', '9', '(', '0', ')', '-', '_',
+            '=', '+', '{', '[', ']', '}', '|', ':', ';', '"', ',', '<', '.', '>', '/', '?', ' ',
+            '\'', '\\');
     public static final Font BIG_FONT = new Font("Montserrat", Font.BOLD, 25);
     public static final Font MED_FONT = new Font("Montserrat", Font.BOLD, 15);
     public static final Font SMALL_FONT = new Font("Montserrat", Font.BOLD, 10);
-
     private static String input = "";
+    private static String pronounce = "";
 
     private static List<String> appSearcher(String input) {
         List<String> found = new ArrayList<>();
@@ -51,7 +52,16 @@ public class DictionaryApplication extends DictionaryManagement {
         ImageIcon arrow = new ImageIcon("D:\\Study\\java\\EnglishDictionary\\src\\image\\arrow.png");
         MyLabel english = new MyLabel(10, 10, 330, 35, null, BIG_FONT, Color.BLUE, JLabel.LEFT, JLabel.TOP,
                 Color.WHITE);
-        MyLabel pronunciation = new MyLabel(10, 50, 330, 25, null, MED_FONT, Color.BLUE, JLabel.LEFT, 
+        MyButton speaker = new MyButton(10, 45, 30, 30, false, false, JLabel.CENTER, JLabel.CENTER,
+                new ImageIcon("D:\\Study\\java\\EnglishDictionary\\src\\image\\speaker.png"), null, null);
+        speaker.addActionListener(new ActionListener() {
+            public void actionPerformed(ActionEvent e) {
+                if (e.getSource() == speaker) {
+                    Speaker.pronounce(pronounce);
+                }
+            }
+        });
+        MyLabel pronunciation = new MyLabel(50, 50, 330, 25, null, MED_FONT, Color.BLUE, JLabel.LEFT,
                 JLabel.TOP, Color.WHITE);
         MyLabel type1 = new MyLabel(10, 80, 330, 25, null, MED_FONT, new Color(0x999999),
                 JLabel.LEFT, JLabel.TOP, JLabel.RIGHT, JLabel.CENTER, arrow, Color.WHITE);
@@ -73,6 +83,7 @@ public class DictionaryApplication extends DictionaryManagement {
         rightPane.add(header, Integer.valueOf(0));
         rightPane.add(headerText, Integer.valueOf(1));
         wordPanel.add(english);
+        wordPanel.add(speaker);
         wordPanel.add(pronunciation);
         wordPanel.add(type1);
         wordPanel.add(type2);
@@ -129,8 +140,8 @@ public class DictionaryApplication extends DictionaryManagement {
                         } else {
                             List<String> type = new ArrayList<>(Arrays.asList(temp1));
                             List<String> meaning = new ArrayList<>(Arrays.asList(temp2));
-                            insertWord(addEnglish.getText().toLowerCase(), meaning, type, 
-                                addPronuciation.getText());
+                            insertWord(addEnglish.getText().toLowerCase(), meaning, type,
+                                    addPronuciation.getText());
                             JOptionPane.showMessageDialog(myFrame, "Từ mới " + addEnglish.getText()
                                     + " đã được thêm vào", "Thao tác thành công",
                                     JOptionPane.INFORMATION_MESSAGE);
@@ -193,7 +204,8 @@ public class DictionaryApplication extends DictionaryManagement {
                         } else {
                             List<String> type = new ArrayList<>(Arrays.asList(temp1));
                             List<String> meaning = new ArrayList<>(Arrays.asList(temp2));
-                            adjustWord(adjustEnglish.getText().toLowerCase(), meaning, type, adjustPronuciation.getText());
+                            adjustWord(adjustEnglish.getText().toLowerCase(), meaning, type,
+                                    adjustPronuciation.getText());
                             JOptionPane.showMessageDialog(myFrame, "Nghĩa của từ " + adjustEnglish.getText()
                                     + " đã được sửa.", "Thao tác thành công", JOptionPane.INFORMATION_MESSAGE);
                             adjustEnglish.setText(null);
@@ -318,6 +330,7 @@ public class DictionaryApplication extends DictionaryManagement {
                                         headerText.setText("Định nghĩa");
                                     }
                                     english.setText("<HTML><U>" + temp.getText() + "</U></HTML>");
+                                    pronounce = temp.getText();
                                     pronunciation.setText(map.get(temp.getText()).getPronuciation());
                                     for (int i = 0; i < map.get(temp.getText()).getType().size(); i++) {
                                         if (map.get(temp.getText()).getType().get(i).equalsIgnoreCase("n")) {
@@ -336,7 +349,8 @@ public class DictionaryApplication extends DictionaryManagement {
                                             typeList.get(i).setText("<HTML><U>" + "Từ hạn định" + "</U></HTML>");
                                         } else if (map.get(temp.getText()).getType().get(i).equalsIgnoreCase("conj")) {
                                             typeList.get(i).setText("<HTML><U>" + "Liên từ" + "</U></HTML>");
-                                        } else if (map.get(temp.getText()).getType().get(i).equalsIgnoreCase("interjection")) {
+                                        } else if (map.get(temp.getText()).getType().get(i)
+                                                .equalsIgnoreCase("interjection")) {
                                             typeList.get(i).setText("<HTML><U>" + "Thán từ" + "</U></HTML>");
                                         } else {
                                             typeList.get(i).setText("<HTML><U>" + "*Từ loại không phù hợp, vui lòng sửa"
@@ -384,6 +398,7 @@ public class DictionaryApplication extends DictionaryManagement {
                         headerText.setText("Định nghĩa");
                     }
                     english.setText("<HTML><U>" + word1.getText() + "</U></HTML>");
+                    pronounce = word1.getText();
                     pronunciation.setText(map.get(word1.getText()).getPronuciation());
                     for (int i = 0; i < map.get(word1.getText()).getType().size(); i++) {
                         if (map.get(word1.getText()).getType().get(i).equalsIgnoreCase("n")) {

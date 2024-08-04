@@ -8,8 +8,8 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseWheelEvent;
 import java.awt.event.MouseWheelListener;
+import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
-import java.awt.event.WindowListener;
 import java.io.IOException;
 import java.util.Set;
 import java.util.ArrayList;
@@ -433,11 +433,10 @@ public class DictionaryApplication extends DictionaryManagement {
                 }
                 if ((e.getKeyChar() >= 'a' && e.getKeyChar() <= 'z') || (e.getKeyChar() >= 'A' && e.getKeyChar() <= 'z')
                         || NOT_ALPHABET.contains(e.getKeyChar())) {
-                    input = input + e.getKeyChar();
+                    input = searcher.getText() + e.getKeyChar();
                 } else {
                     input = searcher.getText();
                 }
-                System.out.println(input);
                 input = input.toLowerCase();
                 if (!input.equalsIgnoreCase("")) {
                     List<String> found = appSearcher(input);
@@ -655,6 +654,12 @@ public class DictionaryApplication extends DictionaryManagement {
         showLearningList.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 if (e.getSource() == showLearningList) {
+                    if (!input.equalsIgnoreCase("")) {
+                        input = "";
+                    }
+                    if (!searcher.getText().equalsIgnoreCase("")) {
+                        searcher.setText("");
+                    }
                     if (note.isVisible()) {
                         note.setVisible(false);
                     }
@@ -792,7 +797,7 @@ public class DictionaryApplication extends DictionaryManagement {
 
         myFrame.add(rightPane);
         myFrame.add(leftPane);
-        myFrame.addWindowListener(new WindowListener() {
+        myFrame.addWindowListener(new WindowAdapter() {
 
             @Override
             public void windowOpened(WindowEvent e) {
@@ -818,27 +823,6 @@ public class DictionaryApplication extends DictionaryManagement {
                 }
                 System.exit(0);
             }
-
-            @Override
-            public void windowClosed(WindowEvent e) {
-            }
-
-            @Override
-            public void windowIconified(WindowEvent e) {
-            }
-
-            @Override
-            public void windowDeiconified(WindowEvent e) {
-            }
-
-            @Override
-            public void windowActivated(WindowEvent e) {
-            }
-
-            @Override
-            public void windowDeactivated(WindowEvent e) {
-            }
-
         });
         myFrame.setVisible(true);
     }

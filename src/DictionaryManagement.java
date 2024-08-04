@@ -114,7 +114,7 @@ public class DictionaryManagement extends Dictionary {
     public static void exportToFile() throws IOException{
         if (changed) {
             BufferedWriter bw = new BufferedWriter(
-                    new FileWriter("D:\\Study\\java\\EnglishDictionary\\src\\dictionaries.txt"));
+                    new FileWriter("D:\\Study\\java\\EnglishDictionary\\src\\data\\dictionaries.txt"));
             for (String key : map.keySet()) {
                 bw.write(key);
                 bw.write(";");

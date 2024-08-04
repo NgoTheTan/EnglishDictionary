@@ -1,0 +1,1509 @@
+bad;/bæd/;adj:xấu, tồi
+depend;/dɪˈpend/;v:(+on, upon) phụ thuộc, tuỳ thuộc
+egg;/eɡ/;n:trứng
+about;/əˈbaʊt/;adv:khoảng/prep:về
+bring;/brɪŋ/;v:mang, cầm, xách lại
+danger;/ˈdeɪn.dʒər/;n:sự nguy hiểm, nguy cơ, mối đe dọa
+branch;/brɑːntʃ/;n:ngành, nhành cây, nhánh song, ngả đường
+cover;/ˈkʌv.ər/;v:bao bọc, che phủ/n:vỏ, vỏ bọc
+bank;/bæŋk/;n:bờ (sông…), đê, ngân hàng
+bar;/bɑːr/;n:quán bán rượu
+character;/ˈkær.ək.tər/;n:tính cách, đặc tính, nhân vật
+bat;/bæt/;n:con dơi, cây gậy bóng chày
+above;/əˈbʌv/;prep:ở trên/adv:ở trên, lên trên
+band;/bænd/;n:băng, đai, nẹp
+dance;/dɑːns/;n:sự nhảy múa, sự khiêu vũ/v:nhảy múa, khiêu vũ
+element;/ˈel.ɪ.mənt/;n:yếu tố, nguyên tố
+energy;/ˈen.ə.dʒi/;n:năng lượng, nghị lực, sinh lực
+broke;/brəʊk/;adj:khánh kiệt, túng quẫn, bần cùng
+each;/iːtʃ/;det:mỗi/pron:mỗi
+eye;/aɪ/;n:mắt
+as;/æz/;prep:như/adv:như/conj:như
+dictionary;/ˈdɪk.ʃən.ər.i/;n:từ điển
+animal;/ˈæn.ɪ.məl/;n:động vật, thú vật
+except;/ɪkˈsept/;prep:trừ ra, không kể/conj:trừ phi
+circle;/ˈsɜː.kəl/;n:đường tròn, hình tròn
+drive;/draɪv/;v:lái, đua xe/n:cuộc đua xe (điều khiển)
+brother;/ˈbrʌð.ər/;n:anh, em trai
+continent;/ˈkɒn.tɪ.nənt/;n:lục địa, đại lục
+compare;/kəmˈpeər/;v:so sánh, đối chiếu
+deal;/diːl/;v:phân phát, phân phối/n:sự giao dịch, thỏa thuận mua bán
+cut;/kʌt/;v:cắt, chặt/n:sự cắt,vết cắt
+dead;/ded/;adj:chết, tắt
+enemy;/ˈen.ə.mi/;n:kẻ thù, quân địch
+believe;/bɪˈliːv/;v:tin, tin tưởng
+dollar;/ˈdɒl.ər/;n:đô la Mỹ
+example;/ɪɡˈzɑːm.pəl/;n:thí dụ, ví dụ
+current;/ˈkʌr.ənt/;adj:hiện hành, phổ biến, hiện nay/n:dòng (nước), luống (gió)
+does;/dʌz/;n:hươu cái, hoãng cái, nai cái
+by;/baɪ/;adv:bởi, bằng
+after;/ˈɑːf.tər/;prep:đằng sau/conj:sau/adv:sau khi
+dear;/dɪər/;adj:thân, thân mến, kính thưa
+arm;/ɑːm/;n:cánh tay, vũ trang/v:trang bị (vũ khí)
+close;/kləʊz/;adj:đóng kín, chật chội/v:che đậy, đóng, khép, kết thúc, chấm dứt
+connect;/kəˈnekt/;v:kết nối, nối
+equate;/ɪˈkweɪt/;v:làm cân bằng, san bằng
+art;/ɑːt/;n:nghệ thuật, mỹ thuật
+charge;/tʃɑːdʒ/;n:nhiệm vụ, bổn phận, trách nhiệm/v:giao nhiệm vụ, giao việc
+contain;/kənˈteɪn/;v:bao hàm, chứa đựng, bao gồm
+black;/blæk/;adj:đen, mang màu đen/n:màu đen
+column;/ˈkɒl.əm/;n:cột, mục (báo)
+blood;/blʌd/;n:máu, huyết
+call;/kɔːl/;v:gọi/n:tiếng kêu, tiếng gọi
+appear;/əˈpɪər/;v:xuất hiện, hiện ra, trình diện
+abandon;/əˈbæn.dən/;v:bỏ, từ bỏ
+answer;/ˈɑːn.sər/;n:sự trả lời, câu trả lời/v:trả lời
+blue;/bluː/;adj:xanh/n:màu xanh
+afraid;/əˈfreɪd/;adj:sợ, sợ hãi, hoảng sợ
+ask;/ɑːsk/;v:hỏi
+describe;/dɪˈskraɪb/;v:diễn tả, miêu tả, mô tả
+desert;/ˈdez.ət/;n:sa mạc, công lao, giá trị/v:rời bỏ, bỏ trốn
+chart;/tʃɑːt/;n:đồ thị, biểu đồ/v:vẽ đồ thị, lập biểu đồ
+discuss;/dɪˈskʌs/;v:thảo luận, tranh luận
+bed;/bed/;n:cái giường
+but;/bʌt/;conj:nhưng
+country;/ˈkʌn.tri/;n:nước, quốc gia, đất nước
+die;/daɪ/;v:chết, từ trần, hy sinh
+beauty;/ˈbjuː.ti/;n:vẻ đẹp, cái đẹp, người đẹp
+correct;/kəˈrekt/;adj:đúng, chính xác/v:sửa, sửa chữa
+buy;/baɪ/;v:mua
+do;/du/;v:làm
+down;/daʊn/;adv:xuống/prep:xuống, bên dưới
+act;/ækt/;n:hành động, hành vi/v:đối xử
+continue;/kənˈtɪn.juː/;v:tiếp tục, làm tiếp
+duck;/dʌk/;n:con vịt, vịt cái
+bird;/bɜːd/;n:con chim
+add;/æd/;v:cộng, thêm vào
+area;/ˈeə.ri.ə/;n:diện tích, bề mặt
+count;/kaʊnt/;v:đếm, tính
+degree;/dɪˈɡriː/;n:mức độ, trình độ, bằng cấp, độ
+check;/tʃek/;v:kiểm tra/n:sự kiểm tra
+develop;/dɪˈvel.əp/;v:phát triển, mở rộng, trình bày, bày tỏ
+brown;/braʊn/;adj:nâu/n:màu nâu
+camp;/kæmp/;v:cắm trại/n:chỗ cắm trại, trại
+especially;/ɪˈspeʃ.əl.i/;adv:đặc biệt là, nhất là
+carry;/ˈkær.i/;v:mang, vác, khuân chở
+decimal;/ˈdes.ɪ.məl/;adj:theo hệ thập phân/n:số thập phân
+crop;/krɒp/;n:vụ mùa
+coin;/kɔɪn/;n:đồng xu
+child;/tʃaɪld/;n:đứa bé, đứa trẻ (số ít)
+allow;/əˈlaʊ/;v:cho phép, để cho
+drop;/drɒp/;v:chảy nhỏ giọt, rơi, rớt/n:giọt (nước, máu...)
+deep;/diːp/;adj:sâu/adv:khó lường, bí ẩn
+color;/ˈkʌl.ər/;n:màu sắc
+book;/bʊk/;n:sách/v:ghi chép
+back;/bæk/;n:lưng/v:về phía sau, trở lại/adj:trở lại
+choose;/tʃuːz/;v:chọn, lựa chọn
+cold;/kəʊld/;adj:lạnh (nhiệt độ), lạnh nhạt/n:cái lạnh, cảm lạnh
+apple;/ˈæp.əl/;n:quả táo
+common;/ˈkɒm.ən/;adj:công, công cộng, thông thường, phổ biến
+engine;/ˈen.dʒɪn/;n:máy, động cơ
+arrive;/əˈraɪv/;v:đến, tới nơi
+company;/ˈkʌm.pə.ni/;n:công ty
+divide;/dɪˈvaɪd/;v:chia, chia ra, phân ra
+end;/end/;n:giới hạn, sự kết thúc/v:kết thúc, chấm dứt
+class;/klɑːs/;n:lớp học
+every;/ˈev.ri/;det:mỗi, mọi
+early;/ˈɜː.li/;adj:sớm/adv:sớm
+again;/əˈɡen/;adv:lại, nữa, lần nữa
+center;/ˈsen.tər/;n:trung tâm
+bone;/bəʊn/;n:xương
+better;/ˈbet.ər/;adj:tốt hơn
+equal;/ˈiː.kwəl/;adj:ngang, bằng/n:người ngang hàng, ngang tài, sức/v:bằng, ngang
+baby;/ˈbeɪ.bi/;n:đứa bé mới sinh, trẻ thơ
+age;/eɪdʒ/;n:tuổi 
+base;/beɪs/;n:cơ sở, cơ bản, nền móng/v:đặt cơ sở trên cái gì
+big;/bɪɡ/;adj:to, lớn
+crowd;/kraʊd/;n:đám đông
+ago;/əˈɡəʊ/;adv:trước đây
+decide;/dɪˈsaɪd/;v:quyết định, giải quyết, phân xử
+during;/ˈdʒʊə.rɪŋ/;prep:trong lúc, trong thời gian
+bit;/bɪt/;n:miếng, mảnh
+climb;/klaɪm/;v:leo, trèo
+division;/dɪˈvɪʒ.ən/;n:sự chia, sự phân chia, sự phân loại
+corner;/ˈkɔː.nər/;n:góc (tường, nhà, phố...)
+experiment;/ɪkˈsper.ɪ.mənt/;n:cuộc thí nghiệm/v:thí nghiệm
+children;/ˈtʃɪl.drən/;n:những đứa bé, đứa trẻ
+else;/els/;adv:khác, nữa, nếu không
+broad;/brɔːd/;adj:rộng
+block;/blɒk/;n:khối, tảng (đá)/v:làm ngăn cản, ngăn chặn
+catch;/kætʃ/;v:bắt lấy, nắm lấy, tóm lấy, chộp lấy
+enter;/ˈen.tər/;v:đi vào, gia nhập
+between;/bɪˈtwiːn/;prep:giữa, ở giữa
+case;/keɪs/;n:vỏ, ngăn, túi
+calculator;/ˈkæl.kjə.leɪ.tər/;n: máy tính (dùng để tính toán)
+double;/ˈdʌb.əl/;adj:đôi, hai, kép/adv:lượng gấp đôi/v:làm gấp đôi
+distant;/ˈdɪs.tənt/;adj:xa, cách, xa cách
+come;/kʌm/;v:đến, tới, đi đến, đi tới
+agree;/əˈɡriː/;v:đồng ý, tán thành
+bell;/bel/;n:cái chuông, tiếng chuông
+drink;/drɪŋk/;n:đồ uống/v:uống
+coast;/kəʊst/;n:sự lao dốc, bờ biển
+ever;/ˈev.ər/;adv:từng, từ trước tới giờ
+even;/ˈiː.vən/;adv:ngay cả, ngay, lại còn/adj:bằng phẳng, điềm đạm, ngang bằng
+among;/əˈmʌŋ/;prep:giữa, ở giữa
+exact;/ɪɡˈzækt/;adj:chính xác, đúng
+begin;/bɪˈɡɪn/;v:bắt đầu, khởi đầu
+dog;/dɒɡ/;n:chó
+card;/kɑːd/;n:thẻ, thiếp
+care;/keər/;n:sự chăm sóc/v:chăm nom
+city;/ˈsɪt.i/;n:thành phố
+against;/əˈɡenst/;prep:chống lại, phản đối
+bright;/braɪt/;adj:sáng, sáng chói
+direct;/daɪˈrekt/;adj:trực tiếp, thẳng, thẳng thắn/v:gửi, viết cho ai, điều khiển
+exercise;/ˈek.sə.saɪz/;n:bài tập, sự thi hành, sự thực hiện/v:làm, thi hành, thực hiện
+air;/eər/;n:không khí, bầu không khí, không gian
+cell;/sel/;n:ô, ngăn
+eight;/eɪt/;n:số tám, tám
+computer;/kəmˈpjuː.tər/;n:máy tính
+ear;/ɪər/;n:tai
+dark;/dɑːk/;adj:tối, tối tăm/n:bóng tối, ám muội
+course;/kɔːs/;n:tiến trình, sân chạy đua, khóa học
+eat;/iːt/;v:ăn
+copy;/ˈkɒp.i/;n:bản sao, bản chép lại, sự sao chép/v:sao chép, bắt chước
+event;/ɪˈvent/;n:sự việc, sự kiện
+bread;/bred/;n:bánh mỳ
+break;/breɪk/;v:bẻ gãy, đập vỡ/n:sự gãy, sự vỡ
+chair;/tʃeər/;n:cái ghế
+cook;/kʊk/;v:nấu ăn/n:người nấu ăn
+born;/bɔːn/;v:sinh, đẻ
+change;/tʃeɪndʒ/;v:thay đổi/n:sự thay đổi, sự biến đổi
+cool;/kuːl/;adj:mát mẻ, điềm tĩnh/v:làm mát
+electricity;/ˌel.ɪkˈtrɪs.ə.ti/;n:dòng điện
+draw;/drɔː/;v:vẽ, kéo rút (bài, tủ,...)
+boat;/bəʊt/;n:tàu, thuyền
+expect;/ɪkˈspekt/;v:chờ đợi, mong ngóng, liệu trước
+century;/ˈsen.tʃər.i/;n:thế kỷ
+able;/ˈeibəl/;adj:có năng lực, có tài
+atom;/ˈæt.əm/;n:nguyên tử
+choice;/tʃɔɪs/;n:sự lựa chọn
+complete;/kəmˈpliːt/;v:hoàn thành, xong/adj:hoàn toàn
+evening;/ˈiːv.nɪŋ/;n:buổi chiều, tối
+certain;/ˈsɜː.tən/;adj:chắc chắn
+board;/bɔːd/;n:tấm ván/v:lát ván, lót ván
+door;/dɔːr/;n:cửa, cửa ra vào
+dress;/dres/;n:quần áo/v:mặc (quần áo), ăn mặc
+capital;/ˈkæp.ɪ.təl/;n:thủ đô, tiền vốn/adj:chủ yếu, chính yếu, cơ bản
+before;/bɪˈfɔːr/;prep:đằng trước/conj:trước (khi...)
+corn;/kɔːn/;n:ngô
+dad;/dæd/;n:bố, cha
+cotton;/ˈkɒt.ən/;n:bông, chỉ, sợi
+cow;/kaʊ/;n:con bò cái
+body;/ˈbɒd.i/;n:thân thể, thân xác
+experience;/ɪkˈspɪə.ri.əns/;n:kinh nghiệm/v:trải qua, nếm mùi
+anger;/ˈæŋ.ɡər/;n:sự tức giận, sự giận dữ
+cloud;/klaʊd/;n:mây, đám mây
+edge;/edʒ/;n:lưỡi, cạnh sắc
+arrange;/əˈreɪndʒ/;v:sắp xếp, sắp đặt, sửa soạn
+beat;/biːt/;n:tiếng đập, sự đập/v:đánh đập, đấm
+claim;/kleɪm/;v:đòi hỏi, yêu sách/n:sự đòi hỏi, sự yêu sách, sự thỉnh cầu
+create;/kriˈeɪt/;v:sáng tạo, tạo nên
+bear;/beər/;n:con gấu/v:mang, cầm, vác, đeo, ôm
+consider;/kənˈsɪd.ər/;v:cân nhắc, xem xét, để ý, quan tâm
+blow;/bləʊ/;v:nở hoa, thổi/n:sự nở hoa
+day;/deɪ/;n:ngày, ban ngày
+all;/ɔːl/;det:tất cả/pron:tất cả/adv:tất cả
+always;/ˈɔːl.weɪz/;adv:luôn luôn
+bottom;/ˈbɒt.əm/;n:phần dưới cùng, thấp nhất/adj:cuối, cuối cùng
+difficult;/ˈdɪf.ɪ.kəlt/;adj:khó, khó khăn, gay go
+excite;/ɪkˈsaɪt/;v:kích thích, kích động
+dry;/draɪ/;adj:khô, cạn/v:làm khô, sấy khô
+clock;/klɒk/;n:đồng hồ
+done;/dʌn/;adj:xong, hoàn thành, đã thực hiện
+both;/bəʊθ/;det:cả hai/pron:(+of) cả hai (người, vật,...)
+chick;/tʃɪk/;n:gà con, chim con
+coat;/kəʊt/;n:áo choàng, áo khoác
+condition;/kənˈdɪʃ.ən/;n:điều kiện, tình cảnh, tình thế
+dream;/driːm/;n:giấc mơ/v:mơ
+effect;/ɪˈfekt/;n:hiệu ứng, hiệu quả, kết quả
+crease;/kriːs/;n:nếp nhăn, nếp gấp
+basic;/ˈbeɪ.sɪk/;adj:cơ bản, cơ sở
+collect;/kəˈlekt/;v:sưu tập, tập trung lại
+behind;/bɪˈhaɪnd/;prep: sau, ở đằng sau
+ease;/iːz/;n:sự thanh thản, sự thoải mái/v:làm thanh thản, làm yên tâm, làm dễ chịu
+colony;/ˈkɒl.ə.ni/;n:thuộc địa
+death;/deθ/;n:sự chết, cái chết
+cause;/kɔːz/;n:nguyên nhân, nguyên do/v:gây ra, gây nên
+best;/best/;adj:tốt nhất
+box;/bɒks/;n:hộp, thùng
+captain;/ˈkæp.tɪn/;n:người cầm đầu, người chỉ huy, thủ lĩnh
+boy;/bɔɪ/;n:con trai, thiếu niên
+ball;/bɔːl/;n:quả bóng
+east;/iːst/;n:hướng đông, phía đông/adj:(thuộc) đông/adv:ở phía đông
+car;/kɑːr/;n:xe hơi
+and;/ænd/;conj:và
+busy;/ˈbɪz.i/;adj:bận, bận rộn
+cat;/kæt/;n:con mèo
+design;/dɪˈzaɪn/;n:sự thiết kế, kế hoạch, đề cương/v:phác thảo, phác họa, thiết kế
+burn;/bɜːn/;v:đốt, đốt cháy, thắp, nung, thiêu
+chance;/tʃɑ:ns/;n:cơ hội
+cost;/kɒst/;n:giá, chi phí/v:trả giá, phải trả
+determine;/dɪˈtɜː.mɪn/;v:xác định, định rõ, quyết định
+ant;/ænt/;n:con kiến
+chief;/tʃiːf/;adj:trọng yếu, chính yếu/n:thủ lĩnh, lãnh tụ, người đứng đầu, sếp
+electric;/iˈlek.trɪk/;adj:(thuộc) điện, có điện, phát điện
+clear;/klɪər/;adj:trong suốt, dễ hiểu, dễ nghe/v:lau chùi, quét dọn
+cross;/krɒs/;n:cây Thánh Giá, nỗi thống khổ, sự băng qua/v:băng qua, vượt qua
+also;/ˈɔːl.səʊ/;adv:cũng, cũng vậy, cũng thế
+control;/kənˈtrəʊl/;n:sự điều khiển, quyền hành, quyền chỉ huy/v:điều khiển, điều hành
+cry;/kraɪ/;v:khóc, kêu la/n:sự khóc, tiếng khóc, sự kêu la
+enough;/ɪˈnʌf/;det:đủ/adv:đủ
+clean;/klɑːs/;adj:sạch sẽ/v:làm sạch
+any;/ˈen.i/;det:một người, vật nào đó/pron:bất cứ/adv:một chút nào, tí nào
+differ;/ˈdɪf.ər/;v:+from khác, không giống
+doctor;/ˈdɒk.tər/;n:bác sĩ y khoa, tiến sĩ
+build;/bɪld/;v:xây dựng
+earth;/ɜːθ/;n:đất, trái đất
+chord;/kɔːd/;n:hợp âm
+face;/feɪs/;n:mặt, thể diện/v:đương đầu, đối phó, đối mặt
+fact;/fækt/;n:sự việc, sự kiện có thật, có chứng cứ
+fair;/feər/;adj:hợp lý, công bằng
+fall;/fɔːl/;v:rơi, ngã/n:sự rơi, cú ngã
+family;/ˈfæm.əl.i/;n:gia đình/adj:thuộc gia đình
+famous;/ˈfeɪ.məs/;adj:nổi tiếng
+far;/fɑːr/;adv:xa/adj:xa
+farm;/fɑːm/;n:trang trại
+fast;/fɑːst/;adj:nhanh/adv:nhanh
+fat;/fæt/;adj:béo, béo bở/n:mỡ, chất béo
+father;/ˈfɑː.ðər/;n:cha (bố)
+favor;/ˈfeɪ.vər/;n:thiện ý, sự quý mến
+fear;/fɪər/;n:sự sợ hãi, e sợ/v:sợ, lo ngại
+feed;/fiːd/;v:cho ăn, nuôi
+feel;/fiːl/;v:cảm thấy
+feet;/fiːt/;n:chân, bàn chân (người, thú…)
+few;/fjuː/;adj:ít, vài/pron:một ít, một vài
+field;/fiːld/;n:cánh đồng, bãi chiến trường
+fig;/fɪɡ/;n:(thực vật học) quả sung, quả vả
+fight;/faɪt/;v:đấu tranh, chiến đấu/n:sự đấu tranh, cuộc chiến đấu
+figure;/ˈfɪɡ.ər/;n:hình dáng, nhân vật/v:hình dung, miêu tả
+fill;/fɪl/;v:làm đấy, lấp kín
+final;/ˈfaɪ.nəl/;adj:cuối cùng/n:cuộc đấu chung kết
+find;/faɪnd/;v:tìm, tìm thấy
+fine;/faɪn/;adj:tốt, giỏi
+finger;/ˈfɪŋ.ɡər/;n:ngón tay
+finish;/ˈfɪn.ɪʃ/;v:kết thúc, hoàn thành/n:sự kết thúc, phần cuối
+fire;/faɪər/;n:lửa/v:đốt cháy
+first;/ˈfɜːst/;det:thứ nhất, đầu tiên, trước hết
+fish;/fɪʃ/;n:cá, món cá/v:câu cá, bắt cá
+fit;/fɪt/;v:hợp, vừa/adj:thích hợp, xứng đáng
+five;/faɪv/;n:năm, số năm
+flat;/flæt/;adj:bằng phẳng, bẹt, nhẵn/n:dãy phòng, căn phòng, mặt phẳng
+floor;/flɔːr/;n:sàn, tầng (nhà)
+flow;/fləʊ/;n:sự chảy/v:chảy
+flower;/flaʊər/;n:hoa, bông, đóa, cây hoa
+fly;/flaɪ/;v:bay/n:sự bay, quãng đường bay/n:con ruồi
+follow;/ˈfɒl.əʊ/;v:đi theo sau, theo, tiếp theo
+food;/fuːd/;n:đồ ăn, thức, món ăn
+foot;/fʊt/;n:chân, bàn chân
+for;/fɔːr/;prep:cho, dành cho…
+force;/fɔːs/;n:sức mạnh/v:ép buộc, cưỡng ép
+forest;/ˈfɒr.ɪst/;n:rừng
+form;/fɔːm/;n:hình thể, hình dạng, hình thức/v:làm thành, được tạo thành
+forward;/ˈfɔː.wəd/;adv:về tương lai, sau này ở phía trước, tiến về phía trước/adj:ở phía trước, tiến về phía trước
+four;/fɔːr/;n:bốn, số bốn
+fraction;/ˈfræk.ʃən/;n:(toán học) phân số
+free;/friː/;adj:miễn phí, tự do/v:giải phóng, trả tự do
+fresh;/freʃ/;adj:tươi, tươi tắn
+friend;/frend/;n:người bạn
+from;/frɒm/;prep:từ
+front;/frʌnt/;n:mặt/adj:đằng trước, về phía trước
+fruit;/fruːt/;n:quả, trái cây
+full;/fʊl/;adj:đầy, đầy đủ
+fun;/fʌn/;n:sự vui đùa, sự vui thích/adj:hài hước
+game;/ɡeɪm/;n:trò chơi
+garden;/ˈɡɑː.dən/;n:vườn
+gas;/ɡæs/;n:khí, hơi đốt
+gather;/ˈɡæð.ər/;v:tập hợp; hái, lượm, thu thập
+general;/ˈdʒen.ər.əl/;adj:chung, chung chung, tổng
+gentle;/ˈdʒen.təl/;adj:hiền lành, dịu dàng, nhẹ nhàng
+get;/ɡet/;v:được, có được
+girl;/ɡɜːl/;n:con gái
+give;/ɡɪv/;v:cho, biếu, tặng
+glad;/ɡlæd/;adj:vui lòng, sung sướng
+glass;/ɡlɑːs/;n:kính, thủy tinh, cái cốc, ly
+go;/ɡəʊ/;v:đi
+gold;/ɡəʊld/;n:vàng/adj:bằng vàng
+good;/ɡʊd/;adj:tốt, hay, tuyệt/n:điều tốt, điều thiện
+goods;/ɡʊdz/;n:hàng hóa
+got;/ɡɒt/;v:có
+govern;/ˈɡʌv.ən/;v:cầm quyền, cai trị
+government;/ˈɡʌv.ɚn.mənt/;n:chính quyền
+grand;/ɡrænd/;adj:rộng lớn, vĩ đại
+grass;/ɡrɑːs/;n:cỏ; bãi cỏ, đồng cỏ
+gray;/ɡreɪ/;adj:xám, có màu xám/n:màu xám
+great;/ɡreɪt/;adj:to, lớn, vĩ đại
+green;/ɡriːn/;adj:có màu xanh lá cây/n:màu xanh lá cây
+ground;/ɡraʊnd/;n:mặt đất, đất, bãi đất
+giant;/ˈdʒaɪ.ənt/;n:người khổng lồ/adj:to lớn, khổng lồ
+group;/ɡruːp/;n:nhóm
+grape;/ɡreɪp/;n:quả nho
+grow;/ɡrəʊ/;v:mọc, mọc lên, lớn lên
+guess;/ɡes/;v:đoán, phỏng đoán/n:sự đoán, sự ước chừng
+guide;/ɡaɪd/;n:điều chỉ dẫn, người hướng dẫn/v:hướng dẫn, dẫn đường
+gun;/ɡʌn/;n:súng
+guest;/ɡest/;n:khách khứa
+hippo;/ˈhɪp.oʊ/;n:con hà mã
+hair;/heər/;n:tóc
+half;/hɑːf/;n:một nửa, phần chia đôi;det:nửa
+hand;/hænd/;n:tay, bàn tay/v:trao tay, đưa cho
+happen;/ˈhæp.ən/;v:xảy ra, xảy đến
+happy;/ˈhæp.i/;adj:vui sướng, hạnh phúc
+hard;/hɑːd/;adj:cứng, rắn, hà khắc/adv:hết sức cố gắng, tích cực
+hat;/hæt/;n:cái mũ
+have;/hæv/;v:có
+he;/hiː/;pron:nó, anh ấy, ông ấy
+head;/hed/;n:cái đầu (người thú)/v:chỉ huy, lãnh đạo, dẫn đầu
+hear;/hɪər/;v:nghe
+heart;/hɑːt/;n:tim, trái tim
+heat;/hiːt/;n:hơi nóng, sức nóng/v:làm nóng
+heavy;/ˈhev.i/;adj:nặng, nặng nề
+help;/help/;v:giúp đỡ/n:sự giúp đỡ
+her;/hɜːr/;pron:chị ấy, cô ấy, bà ấy/pron:cái của chị ấy, cái của cô ấy, cái của bà ấy/det:của chị ấy, cô ấy, bà ấy
+here;/hɪər/;adv:đây, ở đây
+high;/hɪər/;adj:cao, ở mức độ cao/adv:ở mức cao
+hill;/hɪl/;n:đồi
+him;/hɪm/;pron:hắn, ông ấy, anh ấy
+his;/hɪz/;det:của hắn, của ông ấy, của anh ấy/pron:cái của hắn, cái của ông ấy, cái của anh ấy
+history;/ˈhɪs.tər.i/;n:lịch sử, sử học
+historic;/hɪˈstɔːr.ɪk/;adj:quan trọng trong lịch sử
+historical;/hɪˈstɔːr.ɪ.kəl/;adj:thuộc lịch sử
+hit;/hɪt/;v:đánh, đấm, ném trúng/n:đòn, cú đấm
+hold;/həʊld/;v:cầm, nắm, giữ/n:sự cầm, sự nắm giữ
+hole;/həʊl/;n:lỗ, lỗ trống, hang
+home;/həʊm/;n:nhà/adv:ở tại nhà, nước mình
+hope;/həʊp/;v:hy vọng/n:nguồn hy vọng
+horse;/hɔːs/;n:con ngựa
+hot;/hɒt/;adj:nóng, nóng bức
+hour;/aʊər/;n:giờ
+house;/haʊs/;n:nhà, căn nhà, tòa nhà
+how;/haʊ/;adv:thế nào, như thế nào, làm sao, ra sao
+huge;/hjuːdʒ/;adj:to lớn, khổng lồ
+human;/ˈhjuː.mən/;adj:(thuộc) con người/n:loài người
+hundred;/ˈhʌn.drəd/;det:trăm
+hunt;/hʌnt/;v:săn, đi săn
+hurry;/ˈhʌr.i/;v:vội vàng, gấp rút/n:sự vội vàng, sự gấp rút
+imagination;/ɪˌmædʒ.əˈneɪ.ʃən/;n:trí tưởng tượng, sự tưởng tượng
+imaginative;/ɪˈmædʒ.ə.nə.t̬ɪv/;adj:giàu trí tưởng tượng
+imaginable;/ɪˈmædʒ.ə.nə.bəl/;adj:có thể tưởng tượng
+I;/aɪ/;pron:tôi
+ideal;/aɪˈdiː.əl/;adj:lý tưởng/n:điều lý tưởng
+ice;/aɪs/;n:băng, (nước) đá
+idea;/aɪˈdɪə/;n:ý tưởng, quan niệm
+if;/ɪf/;(conj):nếu, nếu như
+imagine;/ɪˈmædʒ.ɪn/;v:tưởng tượng, hình dung, tưởng rằng, cho rằng
+in;/ɪn/;prep:ở, tại, trong/adv:vào
+inch;/ɪntʃ/;n:insơ (đơn vị đo chiều dài Anh bằng 2, 54 cm)
+include;/ɪnˈkluːd/;v:bao gồm, tính cả
+indicate;/ˈɪn.dɪ.keɪt/;v:chỉ, cho biết, biểu thị, trình bày ngắn gọn
+industry;/ˈɪn.də.stri/;n:công nghiệp, kỹ nghệ
+import;/ɪmˈpɔːrt/;v:nhập khẩu/n:hàng nhập khẩu
+export;/ˈek.spɔːrt/;v:xuất khẩu/n:hàng xuất khẩu
+implement;/ˈɪm.plə.ment/;v:thực thi, triển khai
+implementation;/ˌɪm.plə.menˈteɪ.ʃən/;n:sự triển khai, sự thực hiện
+insect;/ˈɪn.sekt/;n:sâu bọ, côn trùng
+instant;/ˈɪn.stənt/;adj:lúc, chốc lát
+instrument;/ˈɪn.strə.mənt/;n:dụng cụ âm nhạc khí
+interest;/ˈɪn.trəst/;n:sự thích thú, sự quan tâm, chú ý/v:làm quan tâm, làm chú ý
+intersting;/ˈɪn.trɪ.stɪŋ/;adj:thú vị
+impress;/ɪmˈpres/;v:gây ấn tượng, làm ấn tượng
+impression;/ɪmˈpreʃ.ən/;n:sự ấn tượng
+impressive;/ɪmˈpres.ɪv/;adj:ấn tượng
+invent;/ɪnˈvent/;v:phát minh, sáng chế
+invention;/ɪnˈven.ʃən/;n:phát minh
+iron;/aɪən/;n:sắt/v:bọc sắt/v:là ủi
+island;/ˈaɪ.lənd/;n:hòn đảo
+it;/ɪt/;pron:cái đó, điều đó, con vật đó
+joy;/dʒɔɪ/;n:sự vui sướng
+jam;/dʒæm/;n:mứt
+job;/dʒɑːb/;n:công việc;
+jar;/dʒɑːr/;n:lọ
+jaw;/dʒɑː/;n:hàm
+jobless;/ˈdʒɑːb.ləs/;adj:thất nghiệp
+jump;/dʒʌmp/;v:nhảy lên
+july;/dʒʊˈlaɪ/;n:tháng bảy
+january;/ˈdʒæn.ju.er.i/;n:tháng một
+february;/ˈfeb.ruː.er.i/;n:tháng hai
+march;/mɑːrtʃ/;n:tháng ba
+april;/ˈeɪ.prəl/;n: tháng tư
+may;/meɪ/;n:tháng năm/v:có thể, có lẽ
+june;/dʒuːn/;n:tháng sáu
+august;/ˈɑː.ɡəst/;n:tháng tám
+september;/sepˈtem.bɚ/;n:tháng chín
+october;/ɑːkˈtoʊ.bɚ/;n:tháng mười
+november;/noʊˈvem.bɚ/;n:tháng mười một
+december;/dɪˈsem.bɚ/;n:tháng mười hai
+just;/dʒʌst/;adv:đúng, vừa đủ/adv:vừa mới, chỉ
+join;/dʒɔɪn/;v:gia nhập, tham gia/v:nối, chắp, ghép
+joke;/dʒoʊk/;n:trò đùa, trò cười
+jack;/dʒæk/;n:giắc cắm
+judge;/dʒʌdʒ/;n:thẩm phán
+juice;/dʒuːs/;n:nước ép
+joint;/dʒɔɪnt/;n:chung, khớp
+jeans;/dʒiːnz/;n:quần bò
+jelly;/ˈdʒel.i/;n:thạch
+jolly;/ˈdʒɑː.li/;adj:vui vẻ
+jacket;/ˈdʒæk.ɪt/;n:áo khoác
+junior;/ˈdʒuː.njɚ/;n:trẻ em/n:người có cấp bậc thấp, mới vào làm
+jungle;/ˈdʒʌŋ.ɡəl/;n:rừng nhiệt đới
+journey;/ˈdʒɝː.ni/;n:hành trình
+journal;/ˈdʒɝː.nəl/;n:tạp chí
+journalist;/ˈdʒɝː.nə.lɪst/;n:nhà báo
+justify;/ˈdʒʌs.tə.faɪ/;v:bào chữa, biện hộ
+justice;/ˈdʒʌs.tɪs/;n:công lý, công bằng
+jubilee;/ˌdʒuː.bəˈliː/;n:lễ kỷ niệm
+jealous;/ˈdʒel.əs/;adj:ghen tỵ, ghen tuông
+jealousy;/ˈdʒel.ə.si/;n:sự ghen tỵ
+juniper;/ˈdʒuː.nə.pɚ/;n:cây bách xù
+junture;/ˈdʒʌŋk.tʃɚ/;n:thời cơ
+junction;/ˈdʒʌŋk.ʃən/;n:giao lộ, giao điểm
+jalapeno;/ˌhɑː.ləˈpeɪ.njoʊ/;n:ớt hal-a-pay-nyo
+jubilant;/ˈdʒuː.bəl.ənt/;adj:hân hoan, mừng rỡ
+jubilation;/ˌdʒuː.bəlˈeɪ.ʃən/;n:sự hân hoan, mừng rỡ
+joystick;/ˈdʒɔɪ.stɪk/;n:cần điều khiển
+jeopardy;/ˈdʒep.ɚ.di/;n:nguy cơ, cảnh hiểm nghèo
+jaundice;/ˈdʒɑːn.dɪs/;n:bệnh vàng da
+kid;/kɪd/;n:đứa trẻ
+key;/kiː/;n:chìa khóa
+king;/kɪŋ/;n:nhà vua
+kiss;/kɪs/;v:hôn/n:nụ hôn
+keep;/kiːp/;v:giữ, nắm
+keen;/kiːn/;adj:+ on quan tâm/adj:sắc sảo
+kind;/kaɪnd/;adj:tốt bụng
+knit;/nɪt/;v:đan, thêu;
+kill;/kɪl/;v:giết, tiêu diệt
+knot;/nɑːt/;n:nút thắt
+know;/noʊ/;v:biết
+knee;/niː/;n:đầu gối
+kick;/kɪk/;v:đá/n:cú đá
+knife;/naɪf/;n:con dao
+kitty;/ˈkɪt̬.i/;n:mèo con
+karma;/ˈkɑːr.mə/;n:nghiệp chướng
+knock;/nɑːk/;v:gõ cửa
+keeper;/ˈkiː.pɚ/;n:người bảo quản, trông giữ
+kidnap;/ˈkɪd.næp/;v:bắt cóc
+kitchen;/ˈkɪtʃ.ən/;n:căn bếp, phòng bếp
+keyword;/ˈkiː.wɝːd/;n:từ khóa
+knowledge;/ˈnɑː.lɪdʒ/;n:kiến thức
+kangaroo;/ˌkæŋ.ɡəˈruː/;n:con chuột túi
+kindness;/ˈkaɪnd.nəs/;n:lòng tốt
+knowledgeable;/ˈnɑː.lɪ.dʒə.bəl/;adj:có hiểu biết sâu rộng
+kaleidoscope;/kəˈlaɪ.də.skoʊp/;n:kính vạn hoa
+knight;/naɪt/;n:hiệp sĩ
+kettle;/ˈket̬.əl/;n:ấm đun nước
+kingdom;/ˈkɪŋ.dəm/;n:vương quốc
+keypad;/ˈkiː.pæd/;n:bàn phím (nhỏ)
+ketchup;/ˈketʃ.ʌp/;n:xốt cà chua
+keyboard;/ˈkiː.bɔːrd/;n:bàn phím (máy tính)
+kingship;/ˈkɪŋ.ʃɪp/;n:vương quyền, vương vị
+kinetic;/kɪˈnet̬.ɪk/;adj:liên quan đến chuyển động cơ học
+kinetics;/kɪˈnet̬.ɪks/;n:cơ học
+kerosene;/ˈker.ə.siːn/;n:dầu hỏa
+keystroke;/ˈki.stroʊk/;n:tổ hợp phím
+kingfisher;/ˈkɪŋˌfɪʃ.ɚ/;n:con chim bói cá
+alone;/əˈloʊn/;adj:cô đơn, một mình/adv:cô độc, không có ai xung quanh
+ability;/əˈbɪl.ə.t̬i/;n:khả năng
+capable;/ˈkeɪ.pə.bəl/;adj:có thể làm việc một cách xuất sắc/adj:+of có khả năng làm gì
+capability;/ˌkeɪ.pəˈbɪl.ə.t̬i/;n:+of, to khả năng làm gì
+cable;/ˈkeɪ.bəl/;n:dây cáp
+cancer;/ˈkæn.sɚ/;n:cung Cự Giải/n:bệnh ung thư
+aries;/ˈer.iːz/;n:cung Bạch Dương
+taurus;/ˈtɔːr.əs/;n:cung Kim Ngưu
+gemini;/ˈdʒem.ə.naɪ/;n:cung Song Tử
+leo;/ˈliː.oʊ/;n:cung Sư Tử
+virgo;/ˈvɝː.ɡoʊ/;n:cung Xử Nữ
+libra;/ˈliː.brə/;n:cung Thiên Bình
+scorpius;/ˈskɔːr.pi.əs/;n:cung Hổ Cáp (Bọ Cạp)
+sagittarius;/ˌsædʒ.əˈter.i.əs/;n:cung Nhân Mã
+capricorn;/ˈkæp.rə.kɔːrn/;n:cung Ma Kết
+aquarius;/əˈkwer.i.əs/;n:cung Bảo Bình
+pisces;/ˈpaɪ.siːz/;n:cung Song Ngư
+lady;/ˈleɪ.di/;n:người yêu, vợ, quý bà, tiểu thư
+lake;/leɪk/;n:hồ
+land;/lænd/;n:đất, đất canh tác, đất đai/v:hạ cánh (máy bay)
+language;/ˈlæŋ.ɡwɪdʒ/;n:ngôn ngữ
+large;/lɑːdʒ/;adj:rộng, lớn, to
+last;/lɑːst/;n:lần cuối, sau cùng, người cuối cùng/adv:cuối cúng/v:kéo dài
+late;/leɪt/;adj:trễ, muộn/adv:trễ
+laugh;/lɑːf/;v:cười/n:tiếng cười
+law;/lɔː/;n:luật
+lay;/leɪ/;v:xếp, đặt, bố trí
+lead;/liːd/;v:lãnh đạo, dẫn dắt/n:sự lãnh đạo, sự hướng dẫn
+learn;/lɜːn/;v:học tập
+least;/liːst/;det:tối thiểu/adv:ít nhất
+leave;/liːv/;v:bỏ đi, rời đi, để lại
+lonely;/ˈloʊn.li/;adj:cô đơn (buồn)
+loneliness;/ˈloʊn.li.nəs/;n:sự cô đơn, tình trạng cô đơn
+left;/left/;n:bên trái/adv:về phía trái/adj:thuộc về bên trái
+leg;/leɡ/;n:chân (người, thú, bàn…)
+length;/leŋθ/;n:chiều dài, độ dài
+lose;/luːz/;v:đánh mất, làm mất/v:thua (trận đấu, trò chơi,...)
+less;/les/;det:nhỏ bé, ít hơn/adj:số lượng ít hơn
+let;/let/;v:cho phép, để cho
+library;/ˈlaɪ.brer.i/;n:thư viện
+librarian;/laɪˈbrer.i.ən/;n:thủ thư
+letter;/ˈlet.ər/;n:thư/n:chữ cái, mẫu tự
+level;/ˈlev.əl/;n:trình độ, cấp, vị trí/adj:bằng, ngang bằng
+lie;/laɪ/;v:nói dối/n:lời nói dối, sự dối trá
+life;/laɪf/;n:đời, sự sống
+lift;/lɪft/;v:giơ lên, nhấc lên/n:sự nâng, sự nhấc lên
+light;/laɪt/;n:ánh sáng/adj:nhẹ, nhẹ nhàng/v:đốt, thắp sáng
+like;/laɪk/;prep:giống như/v:thích/conj:như
+line;/laɪn/;n:dây, đường, tuyến
+liquid;/ˈlɪk.wɪd/;n:chất lỏng/adj:lỏng, êm ái, du dương, không vững
+list;/lɪst/;n:danh sách/v:ghi vào danh sách
+limit;/ˈlɪm.ɪt/;n:giới hạn/v:giới hạn lại
+limitation;/ˌlɪm.əˈteɪ.ʃən/;n:hành động giới hạn lại
+listen;/ˈlɪs.ən/;v:nghe, lắng nghe
+little;/ˈlɪt.əl/;adj:nhỏ, bé, chút ít/det:không nhiều/adv:một chút
+live;/lɪv/;v:sống
+locate;/ləʊˈkeɪt/;v:xác định vị trí, định vị
+location;/loʊˈkeɪ.ʃən/;n:vị trí
+log;/lɒɡ/;n:khúc gỗ mới đốn, khúc gỗ mới xẻ
+logging;/ˈlɑː.ɡɪŋ/;n:hoạt động chặt cây lấy gỗ
+lone;/ləʊn/;adj:(thơ ca) hiu quạnh
+long;/lɒŋ/;adj:dài, xa/adv:lâu
+look;/lʊk/;v:nhìn/n:cái nhìn
+lot;/lɒt/;n:thăm, việc rút thăm/n:sự chọn bằng cách rút thăm
+lottery;/ˈlɑː.t̬ɚ.i/;n:xổ số
+loud;/laʊd/;adj:to, inh ỏi, ầm ĩ/adv:to, lớn (nói)
+love;/lʌv/;v:yêu
+low;/ləʊ/;adj:thấp, bé, lùn/adv:thấp
+lotus;/ˈloʊ.t̬əs/;n:hoa sen
+scorpion;/ˈskɔːr.pi.ən/;n:con bọ cạp
+machine;/məˈʃiːn/;n:máy, máy móc
+magnet;/ˈmæɡ.nət/;n:nam châm
+main;/meɪn/;adj:chính, chủ yếu, trọng yếu nhất
+major;/ˈmeɪ.dʒər/;adj:lớn, nhiều hơn, trọng đại, chủ yếu/v:+ in chuyên ngành chính/n:thiếu tá
+minor;/ˈmaɪ.nɚ/;adj:nhỏ bé, phần nhỏ, không quan trọng/n:trẻ em/v:+ in chuyên ngành phụ
+majority;/məˈdʒɔː.rə.t̬i/;n:phần lớn (+ of) của cái gì
+minority;/maɪˈnɔːr.ə.t̬i/;n:phần nhỏ (+ of) của cái gì
+make;/meɪk/;v:làm, chế tạo/n:sự chế tạo
+man;/mæn/;n:con người/n:đàn ông
+many;/ˈmen.i/;det:nhiều
+map;/mæp/;n:bản đồ
+mark;/mɑːk/;n:dấu, nhãn, nhãn mác/v:đánh dấu, ghi dấu
+market;/ˈmɑː.kɪt/;n:chợ, thị trường
+mass;/mæs/;n:khối, khối lượng/adj:ảnh hưởng đến quần chúng, đại chúng
+master;/ˈmɑː.stər/;n:chủ, chủ nhân, thầy giáo, thạc sĩ
+match;/mætʃ/;n:trận thi đấu, đối thủ, địch thủ/n:que diêm/v:đối chọi, sánh được
+material;/məˈtɪə.ri.əl/;n:nguyên vật liệu/adj:vật chất, hữu hình
+matter;/ˈmæt.ər/;n:chất, vật chất/v:có ý nghĩa, có tính chất quan trọng
+me;/miː/;pron:tôi, tớ, mình
+mean;/miːn/;v:nghĩa, có nghĩa là/adj:xấu tính, kẹt xỉ
+measure;/ˈmeʒ.ər/;v:đo, đo lường/n:sự đo lường, đơn vị đo lường
+meat;/miːt/;n:thịt
+meet;/miːt/;v:gặp, gặp gỡ
+melody;/ˈmel.ə.di/;n:giai điệu
+men;/men/;n:những người đàn ông (số nhiều)
+metal;/ˈmet.əl/;n:kim loại
+method;/ˈmeθ.əd/;n:phương pháp, cách thức
+middle;/ˈmɪd.l̩/;n:cái ở giữa/adj:giữa, ở giữa
+might;/maɪt/;v:có thể, có lẽ
+mile;/maɪl/;n:dặm (đo lường)
+milk;/mɪlk/;n:sữa
+million;/ˈmɪl.jən/;det:triệu
+mind;/maɪnd/;n:tâm trí, tinh thần, trí tuệ/v:chú ý, để ý, chăm sóc, quan tâm
+mine;/maɪn/;pron:của tôi
+minute;/ˈmɪn.ɪt/;n:phút
+miss;/mɪs/;n:cô gái, thiếu nữ/v:nhớ nhung/v:bỏ lỡ, trượt
+mix;/mɪks/;v:pha, trộn lẫn/n:sự pha trộn
+mixture;/ˈmɪks.tʃɚ/;n:hỗn hợp
+modern;/ˈmɒd.ən/;adj:hiện đại, tân tiến
+molecule;/ˈmɒl.ɪ.kjuːl/;n:(hoá học) phân tử
+moment;/ˈməʊ.mənt/;n:chốc, lát
+money;/ˈmʌn.i/;n:tiền
+month;/mʌnθ/;n:tháng
+moon;/muːn/;n:mặt trăng
+more;/mɔːr/;det:hơn, nhiều hơn/adv:hơn
+morning;/ˈmɔː.nɪŋ/;n:buổi sáng
+afternoon;/ˌæf.tɚˈnuːn/;n:buổi chiều
+most;/məʊst/;det:lớn nhất, nhiều nhất/adv:nhất, hơn cả
+mother;/ˈmʌð.ər/;n:mẹ
+motion;/ˈməʊ.ʃən/;n:sự chuyển động, sự di động
+mount;/maʊnt/;v:leo, trèo, cưỡi/n:núi (viết trước tên ngọn núi)/n:thú cưỡi (ngựa)
+mountain;/ˈmaʊn.tɪn/;n:núi
+mouth;/maʊθ/;n:miệng
+move;/muːv/;v:di chuyển, chuyển động/n:sự di chuyển, sự chuyển động
+much;/mʌtʃ/;det:nhiều, lắm
+multiply;/ˈmʌl.tɪ.plaɪ/;v:nhân lên, làm tăng lên nhiều lần
+music;/ˈmjuː.zɪk/;v:nhạc, âm nhạc
+must;/mʌst/;v:phải, cần, nên làm/n:điều cần, nên làm
+my;/maɪ/;det:của tôi
+musician;/mjuːˈzɪʃ.ən/;n:nhạc sĩ
+artist;/ˈɑːr.t̬ɪst/;n:họa sĩ
+musical;/ˈmjuː.zɪ.kəl/;adj:liên quan đến âm nhạc
+name;/neɪm/;n:tên/v:đặt tên, gọi tên
+nation;/ˈneɪ.ʃən/;n:dân tộc, quốc gia
+nationality;/ˌnæʃ.ənˈæl.ə.t̬i/;n:quốc tịch
+national;/ˈnæʃ.nəl/;adj:thuộc quốc gia, dân tộc
+natural;/ˈnætʃ.ər.əl/;adj:(thuộc) tự nhiên, thiên nhiên
+nature;/ˈneɪ.tʃər/;n:tự nhiên, thiên nhiên
+near;/nɪər/;adj:gần, cận/prep:ở gần/adv:gần
+necessary;/ˈnes.ə.ser.i/;adj:cần, cần thiết, thiết yếu
+neck;/nek/;v:cổ
+need;/niːd/;v:cần, đòi hỏi/n:sự cần
+neighbor;/ˈneɪ.bər/;n:hàng xóm
+neighborhood;/ˈneɪ.bə.hʊd/;n:khu phố (nơi mình sống)
+never;/ˈnev.ər/;adv:không bao giờ, không khi nào
+new;/njuː/;adj:mới, mới mẻ, mới lạ
+next;/nekst/;adj:+ to sát, gần, bên cạnh/n:lần sau/adv:tiếp nữa
+night;/naɪt/;n:đêm, tối
+nine;/naɪn/;n:chín, số chín
+no;/nəʊ/;det:không
+noise;/nɔɪz/;n:tiếng ồn, sự huyên náo
+noisy;/ˈnɔɪ.zi/;adj:ồn ào
+noon;/nuːn/;n:trưa, buổi trưa
+nor;/nɔːr/;conj:cũng không
+north;/nɔːθ/;n:phía bắc, phương bắc/adj:về phía bắc/adv:về phía bắc
+nose;/nəʊz/;n:mũi
+note;/nəʊt/;n:lời ghi, lời ghi chép/v:ghi chú, ghi chép
+notebook;/ˈnoʊt.bʊk/;n:sổ ghi chép, vở
+nothing;/ˈnʌθ.ɪŋ/;pron:không gì, không cái gì
+notice;/ˈnəʊ.tɪs/;n:thông báo, yết thị/v:chú ý, để ý, nhận biết
+now;/naʊ/;adv:bây giờ, hiện giờ, hiện nay
+number;/ˈnʌm.bər/;n:số
+numeral;/ˈnjuː.mə.rəl/;adj:thuộc số
+nice;/naɪs/;adj:đẹp, thú vị, dễ chịu
+net;/net/;n:lưới, mạng
+nut;/nʌt/;n:quả hạch
+nail;/neɪl/;n:móng tay
+news;/nuːz/;n:tin tức
+nest;/nest/;n:cái tổ, ổ (chim)
+neat;/niːt/;adj:gọn gàng, năng nắp
+nurse;/nɝːs/;n:y tá
+nephew;/ˈnef.juː/;n:cháu trai
+grandfather;/ˈɡræn.fɑː.ðɚ/;n:ông
+grandmother;/ˈɡræn.mʌð.ɚ/;n:bà
+niece;/niːs/;n:cháu gái
+novel;/ˈnɑː.vəl/;n:tiểu thuyết
+noodle;/ˈnɑː.dəl/;n:sợi bún, sợi mì, sợi phở
+narrow;/ˈner.oʊ/;adj:hẹp
+naughty;/ˈnɑː.t̬i/;adj:nghịch ngợm
+nervous;/ˈnɝː.vəs/;adj:lo lắng
+butterfly;/ˈbʌt̬.ɚ.flaɪ/;n:con bướm
+butter;/ˈbʌt̬.ɚ/;n:bơ
+nutrient;/ˈnuː.tri.ənt/;n:chất dinh dưỡng
+nutrition;/nuːˈtrɪʃ.ən/;n:sự dinh dưỡng
+nutritious;/nuːˈtrɪʃ.əs/;adj:giàu dinh dưỡng
+needle;/ˈniː.dəl/;n:cây kim
+nuclear;/ˈnuː.kliː.ɚ/;adj:liên quan đến hạt nhân
+fox;/fɑːks/;n:con cáo
+female;/ˈfiː.meɪl/;adj:thuộc về nữ giới, phái nữ/n:nữ
+male;/meɪl/;adj:thuộc về phái nam, nam giới/n:nam
+object;/ˈɒb.dʒɪkt/;n:vật, vật thể/v:phản đối, chống lại
+observe;/əbˈzɜːv/;v:quan sát, theo dõi
+occur;/əˈkɜːr/;v:xảy ra, xảy đến, xuất hiện
+ocean;/ˈəʊ.ʃən/;n:đại dương
+of;/əv/;prep:của
+off;/ɒf/;adv:tắt/prep:khỏi, cách, rời
+offer;/ˈɒf.ər/;v:biếu, tặng, cho/n:sự trả giá
+office;/ˈɒf.ɪs/;n:cơ quan, văn phòng, bộ
+often;/ˈɒf.ən/;adv:thường, hay, luôn
+oil;/ɔɪl/;n:dầu
+old;/əʊld/;n:già
+on;/ɒn/;prep:trên, ở trên/adv:tiếp tục, tiếp diễn
+once;/wʌns/;adv:một lần/conj:khi mà, ngay khi, một khi
+one;/wʌn/;det:một/pron:một người, một vật nào đó
+only;/ˈəʊn.li/;adj:chỉ có 1, duy nhất/adv:chỉ, mới
+open;/ˈəʊ.pən/;adj:mở, ngỏ/v:mở, bắt đầu, khai mạc
+operate;/ˈɒp.ər.eɪt/;v:hoạt động, điều khiển
+opposite;/ˈɒp.ə.zɪt/;adj:đối nhau, ngược nhau/prep:trước mặt, đối diện/n:điều trái ngược
+order;/ˈɔː.dər/;n:thứ, bậc/v:ra lệnh
+organ;/ˈɔː.ɡən/;n:đàn óoc gan
+original;/əˈrɪdʒ.ɪ.nəl/;adj:(thuộc) gốc, nguồn gốc, căn nguyên/n:nguyên bản
+origin;/ˈɔːr.ə.dʒɪn/;n:gốc, nguồn gốc
+other;/ˈʌð.ər/;pron:cái khác/adj:khác
+our;/aʊər/;det:của chúng ta, thuộc chúng ta
+out;/aʊt/;adv:ngoài, ở ngoài, ra ngoài
+over;/ˈəʊ.vər/;adv:bên trên, vượt qua/prep:lên, lên trên
+own;/əʊn/;adj:của chính mình, tự mình/v:sở hữu
+oxygen;/ˈɒk.sɪ.dʒən/;n:(hóa học) oxy
+odd;/ɑːd/;adj:kỳ lạ, không ngờ đến
+obey;/oʊˈbeɪ/;v:vâng lời, tuân lệnh
+onion;/ˈʌn.jən/;n:củ hành tây
+opera;/ˈɑː.pɚ.ə/;n:hát ô-pê-ra
+obese;/oʊˈbiːs/;adj:béo phì
+obesity;/oʊˈbiː.sə.t̬i/;n:sự béo phì
+otter;/ˈɑː.t̬ɚ/;n:con rái cá
+option;/ˈɑːp.ʃən/;n:lựa chọn, tùy chọn
+orange;/ˈɔːr.ɪndʒ/;n:quả cam
+output;/ˈaʊt.pʊt/;n:đầu ra
+input;/ˈɪn.pʊt/;n:đầu vào
+occupy;/ˈɑː.kjə.paɪ/;v:giữ, chiếm, làm ai bận rộn
+orient;/ˈɔr·i·ənt/;v:định hướng
+orientation;/ˌɔːr.i.enˈteɪ.ʃən/;n:sự định hướng
+orphan;/ˈɔːr.fən/;n:trẻ mồ côi
+overall;/ˌoʊ.vɚˈɑːl/;adv:tổng thể/adj:tổng thể, tổng quát
+offense;/əˈfens/;n:hành động xúc phạm
+obvious;/ˈɑːb.vi.əs/;adj:hiển nhiên
+opinion;/əˈpɪn.jən/;n:quan điểm, ý kiến
+online;/ˈɑːn.laɪn/;adj:trực tuyến
+offline;/ˌɑːfˈlaɪn/;adj:ngoại tuyến
+ostrich;/ˈɑː.strɪtʃ/;n:con đà điểu
+ongoing;/ˈɑːnˌɡoʊ.ɪŋ/;adj:đang diễn ra
+organize;/ˈɔːr.ɡən.aɪz/;v:tổ chức, sắp xếp
+organization;/ˌɔːr.ɡən.əˈzeɪ.ʃən/;n:tổ chức
+ordinary;/ˈɔːr.dən.er.i/;adj:bình thường, thông thường
+opponent;/əˈpoʊ.nənt/;n:đối thủ, người phản đối
+operator;/ˈɑː.pə.reɪ.t̬ɚ/;n:người điều hành
+offensive;/ˈɑːˌfen.sɪv/;adj:phản cảm
+objective;/əbˈdʒek.tɪv/;n:mục tiêu
+outskirts;/ˈaʊt.skɝːts/;n:ngoại ô
+originate;/əˈrɪdʒ.ən.eɪt/;v:bắt nguồn từ
+obedience;/oʊˈbiː.di.əns/;n:sự vâng lời, sự tuân lệnh
+opportunity;/ˌɑː.pɚˈtuː.nə.t̬i/;n:cơ hội
+estimate;/ˈes.tə.meɪt/;v:ước tính, ước lượng
+page;/peɪdʒ/;n:trang (sách)
+paint;/peɪnt/;n:sơn, vôi màu/v:sơn, quét sơn
+pair;/peər/;n:đôi, cặp
+paper;/ˈpeɪ.pər/;n:giấy
+paragraph;/ˈpær.ə.ɡrɑːf/;n:đoạn văn
+parent;/ˈpeə.rənt/;n:cha, mẹ, phụ huynh
+part;/pɑːt/;n:phần, bộ phận
+particular;/pəˈtɪk.jʊ.lər/;adj:riêng biệt, cá biệt
+party;/ˈpɑː.ti/;n:tiệc, buổi liên hoan/n:đảng
+pass;/pɑːs/;v:qua, vượt qua, ngang qua
+past;/pɑːst/;n:quá khứ, dĩ vãng/adj:thuộc về quá khứ
+path;/pɑːθ/;n:đường mòn/n:hướng đi
+pattern;/ˈpæt.ən/;n:mẫu, khuôn mẫu
+pay;/peɪ/;v:trả, thanh toán, nộp/n:tiền lương
+payment;/ˈpeɪ.mənt/;n:sự thanh toán, số tiền thanh toán
+people;/ˈpiː.pl̩/;n:dân tộc, dòng giống/n:người (số nhiều)
+perhaps;/pəˈhæps/;adv:có thể, có lẽ
+period;/ˈpɪə.ri.əd/;n:kỳ, thời kỳ, thời gian, thời đại
+person;/ˈpɜː.sən/;n:con người, người (số ít)
+phrase;/freɪz/;n:câu, thành ngữ, cụm từ
+pick;/pɪk/;v:+up nhặt lên/v:lựa chọn
+picture;/ˈpɪk.tʃər/;n:bức vẽ, bức họa
+piece;/piːs/;n:mảnh, mẩu
+pitch;/pɪtʃ/;n:sân (chơi các môn thể thao)
+place;/pleɪs/;n:nơi, địa điểm/v:đặt, để
+plain;/pleɪn/;adj:ngay thẳng, đơn giản, chất phác
+plan;/plæn/;n:bản đồ, kế hoạch/v:vẽ bản đồ, lập kế hoạch, dự kiến
+plane;/pleɪn/;n:mặt phẳng, mặt bằng/n:máy bay
+airplane;/ˈer.pleɪn/;n:máy bay
+planet;/ˈplæn.ɪt/;n:hành tinh
+plant;/plɑːnt/;n:thực vật, sự mọc lên/v:trồng, gieo
+play;/pleɪ/;v:chơi, đánh/n:sự vui chơi, trò chơi, trận đấu
+please;/pliːz/;v:làm vui lòng, vừa lòng, xin mời
+poem;/ˈpəʊ.ɪm/;n:bài thơ
+pleasant;/ˈplez.ənt/;adj:dễ chịu, dễ mến
+point;/pɔɪnt/;n:mũi nhọn, điểm/v:vót, làm nhọn, chấm (câu..)
+poor;/pɔːr/;adj:nghèo
+poverty;/ˈpɑː.vɚ.t̬i/;n:sự nghèo, tình trạng nghèo
+popular;/ˈpɒp.jʊ.lər/;adj:có tính đại chúng, được nhiều người biết
+populate;/ˈpɒp.jʊ.leɪt/;v:ở, cư trú (một vùng)
+population;/ˌpɑː.pjəˈleɪ.ʃən/;n:dân số
+port;/pɔːt/;n:cảng
+pose;/pəʊz/;v:đưa ra, đề ra, đặt/n:sự đặt, đề ra/n:dáng người
+position;/pəˈzɪʃ.ən/;n:vị trí, chỗ
+possible;/ˈpɒs.ə.bl̩/;adj:có thể, có thể thực hiện
+possibility;/ˌpɑː.səˈbɪl.ə.t̬i/;n:khả năng
+post;/pəʊst/;n:thư, bưu kiện/v:gửi thư
+pound;/paʊnd/;n:pao (đơn vị đo lường)
+power;/paʊər/;n:khả năng, tài năng, năng lực/n:sức mạnh, nội lực, quyền lực
+practice;/ˈpræk.tɪs/;n:thực hành, thực tiễn/v:luyện tập
+prepare;/prɪˈpeər/;v:sửa soạn, chuẩn bị
+present;/ˈprez.ənt/;adj:có mặt, hiện diện/n:hiện nay, hiện thời/v:bày tỏ, giới thiệu, trình bày
+press;/pres/;n:sự ép, sự nén, sự ấn/v:ép, nén, bóp, ấn
+pretty;/ˈprɪt.i/;adv:khá, vừa phải/adj:xinh, xinh xắn, đẹp
+print;/prɪnt/;v:in, xuất bản/n:sự in ra
+probable;/ˈprɒb.ə.bl̩/;adj:có thể, có khả năng
+problem;/ˈprɒb.ləm/;n:vấn đề, điều khó giải quyết
+process;/ˈprəʊ.ses/;n:quá trình, sự tiến triển, quy trình/v:chế biến, gia công, xử lý
+produce;/prəˈdjuːs/;v:sản xuất, chế tạo
+product;/ˈprɒd.ʌkt/;n:sản phẩm
+proper;/ˈprɒp.ər/;adj:đúng, thích đáng, thích hợp
+property;/ˈprɒp.ə.ti/;n:tài sản, của cải/n:đất đai, nhà cửa, bất động sản
+protect;/prəˈtekt/;v:bảo vệ, che chở
+prove;/pruːv/;v:chứng tỏ, chứng minh
+provide;/prəˈvaɪd/;v:cung cấp, chu cấp
+pull;/pʊl/;v:lôi, kéo, giật/n:sự lôi kéo, sự giật
+push;/pʊʃ/;v:xô đẩy/n:sự xô đẩy
+put;/pʊt/;v:đặt, để, cho vào
+portion;/ˈpɔːr.ʃən/;n:khẩu phần ăn/n:một phần của cái gì
+production;/prəˈdʌk.ʃən/;n:sự sản xuất, quá trình sản xuất
+productive;/prəˈdʌk.tɪv/;adj:năng suất
+park;/pɑːrk/;n:công viên/v:đỗ xe
+picturesque;/ˌpɪk.tʃərˈesk/;adj:đẹp như tranh vẽ
+quiz;/kwɪz/;n:câu đố
+quite;/kwaɪt/;adv:gần như hoàn toàn
+quit;/kwɪt/;v:từ bỏ, rời bỏ
+quick;/kwɪk/;adj:nhanh nhẹn, nhanh chóng
+quibble;/ˈkwɪb.əl/;v:+ about,over tranh (không quan trọng)/n:lời phàn nàn không quan trọng
+quintessence;/kwɪnˈtes.əns/;n:đặc trưng, tiêu biểu
+quintessential;/ˌkwɪn.tɪˈsen.ʃəl/;adj:đặc trưng, tiêu biểu của...
+quack;/kwæk/;v:kêu như vịt/n:lang băm
+quackery;/ˈkwæk.ɚ.i/;n:phương thuốc vô dụng, chỉ để kiếm tiền
+quadruplet;/kwɑːˈdruː.plət/;n:sinh bốn (cùng mẹ)
+quadrant;/ˈkwɑː.drənt/;n:góc phần tư
+quill;/kwɪl/;n:lông nhím
+quirk;/kwɝːk/;n:kỳ quặc, hành động kỳ quặc
+quirkiness;/ˈkwɝː.ki.nəs/;n:kỳ quặc một cách thú vị, thu hút
+quell;/kwel/;v:dập tắt
+quash;/kwɑːʃ/;v:hủy án, hủy quyết định
+quote;/kwoʊt/;v:trích dẫn
+quiver;/ˈkwɪv.ɚ/;v:run
+queue;/kjuː/;n:hàng (người)/v:xếp hàng
+queen;/kwiːn/;n:nữ hoàng
+quarter;/ˈkwɔːr.t̬ɚ/;n:một phần tư
+quiet;/ˈkwaɪ.ət/;adj:im lặng, im ắng
+query;/ˈkwɪr.i/;n:câu hỏi mang tính xác nhận/v:hỏi xác nhận
+quarrel;/ˈkwɔːr.əl/;n:cuộc tranh cãi/v:tranh cãi
+quest;/kwest/;n:nhiệm vụ
+question;/ˈkwes.tʃən/;n:câu hỏi/v:hỏi, nghi ngờ
+quantity;/ˈkwɑːn.t̬ə.t̬i/;n:+ of lượng (của cái gì)
+qualify;/ˈkwɑː.lə.faɪ/;v:đạt đủ điều kiện
+quarantine;/ˈkwɔːr.ən.tiːn/;n:cách ly
+quality;/ˈkwɑː.lə.t̬i/;n:chất lượng
+qualification;/ˌkwɑː.lə.fəˈkeɪ.ʃən/;n:trình độ chuyên môn/n:thành công vào được cuộc thi
+race;/reɪs/;n:loài, chủng, giống/n:cuộc đua/v:đua
+radio;/ˈreɪ.di.əʊ/;n:sóng vô tuyến, radio
+rail;/reɪl/;n:đường ray
+rain;/reɪn/;n:mưa, cơn mưa/v:mưa
+raise;/reɪz/;v:nâng lên, đưa lên, ngẩng lên
+range;/reɪndʒ/;n:dãy, hàng, loại/n:phạm vi, trình độ
+rather;/ˈrɑː.ðər/;adv:thà.. còn hơn, thích… hơn
+reach;/riːtʃ/;v:đến, đi đến, tới
+read;/riːd/;v:đọc
+ready;/ˈred.i/;adj:sẵn sàng
+real;/rɪəl/;adj:thực, thực tế, có thật
+reason;/ˈriː.zən/;n:lý do, lý lẽ
+receive;/rɪˈsiːv/;v:nhận, lĩnh, thu
+record;/rɪˈkɔːd/;n:bản ghi, sự ghi, bản thu, sự thu/v:thu, ghi chép
+red;/red/;adj:đỏ/v:màu đỏ
+region;/ˈriː.dʒən/;n:vùng, miền
+remember;/rɪˈmem.bər/;v:nhớ, nhớ lại
+repeat;/rɪˈpiːt/;v:nhắc lại, lặp lại
+reply;/rɪˈplaɪ/;n:sự trả lời, sự hồi âm/v:trả lời, hồi âm
+represent;/ˌrep.rɪˈzent/;v:miêu tả, hình dung/v:đại diện, thay mặt
+require;/rɪˈkwaɪər/;v:đòi hỏi, yêu cầu, quy định
+requirement;/rɪˈkwaɪr.mənt/;n:yêu cầu
+rest;/rest/;n:sự nghỉ ngơi, lúc nghỉ/v:nghỉ, nghỉ ngơi
+result;/rɪˈzʌlt/;n:kết quả/v:bởi, do.. mà ra, kết quả là…
+rich;/rɪtʃ/;adj:giàu, giàu có
+ride;/raɪd/;v:đi, cưỡi (ngựa)/n:sự đi, đường đi
+right;/raɪt/;adj:thẳng, phải, tốt/adv:ngay, đúng/n:điều thiện, điều phải, tốt, bên phải
+ring;/rɪŋ/;n:chiếc nhẫn/v:đeo nhẫn cho ai
+rise;/raɪz/;n:sự lên, sự tăng lương, thăng cấp/v:dậy, đứng lên, mọc (mặt trời), thành đạt
+river;/ˈrɪv.ər/;n:sông
+road;/rəʊd/;n:con đường, đường phố
+rock;/rɒk/;n:đá
+roll;/rəʊl/;n:cuốn, cuộn, sự lăn tròn/v:lăn, cuốn, quấn, cuộn
+room;/ruːm/;n:phòng, buồng
+root;/ruːt/;n:gốc, rễ
+rope;/rəʊp/;n:dây cáp, dây thừng, xâu, chuỗi
+rose;/rəʊz/;n:hoa hồng; cây hoa hồng
+round;/raʊnd/;adj:tròn/adv:vòng quanh/prep:xung quanh
+row;/rəʊ/;n:hàng, dây
+rub;/rʌb/;v:cọ xát, xoa bóp, nghiền, tán
+rule;/ruːl/;n:quy tắc, điều lệ, luật lệ/v:cai trị, chỉ huy, điều khiển
+run;/rʌn/;v:chạy/n:sự chạy
+rate;/reɪt/;n:mức độ/v:đánh giá
+rice;/raɪs/;n:gạo
+raccoon;/rækˈuːn/;n:con gấu mèo
+role;/roʊl/;n:vai diễn
+risk;/rɪsk/;n:rủi ro
+rare;/rer/;adj:hiếm
+rent;/rent/;v:thuê
+rude;/ruːd/;adj:thô lỗ, hỗn xược
+route;/ruːt/;n:tuyến đường
+ruin;/ˈruː.ɪn/;v:phá hủy, tàn phá/n:tình trạng bị tàn phá
+rush;/rʌʃ/;v:gấp rút, khẩn trương
+rapid;/ˈræp.ɪd/;adj:nhanh chóng
+rough;/rʌf/;adj:gồ ghề, thô/adj:gây khó khăn, khó chịu
+reject;/rɪˈdʒekt/;v:từ chối
+reduce;/rɪˈduːs/;v:giảm
+reduction;/rɪˈdʌk.ʃən/;n:sự giảm
+report;/rɪˈpɔːrt/;v:báo cáo
+religious;/rɪˈlɪdʒ.əs/;adj:thuộc tôn giáo
+religion;/rɪˈlɪdʒ.ən/;n:tôn giáo
+relief;/rɪˈliːf/;n:cảm giác nhẹ nhõm
+remind;/rɪˈmaɪnd/;v:gợi nhớ, gợi lại
+remote;/rɪˈmoʊt/;adj:xa xôi
+repair;/rɪˈper/;v:sửa chữa
+recent;/ˈriː.sənt/;adj:mới xảy ra gần đây
+resist;/rɪˈzɪst/;v:cưỡng lại, chống lại
+rescue;/ˈres.kjuː/;v:giải cứu
+retire;/rɪˈtaɪr/;v:nghỉ hưu
+reveal;/rɪˈviːl/;v:tiết lộ, để lộ ra
+return;/rɪˈtɝːn/;v:quay trở về
+reward;/rɪˈwɔːrd/;n:phần thưởng/v:trao thưởng
+rubber;/ˈrʌb.ɚ/;n:cao su
+rumour;/ˈruː.mɚ/;n:lời đồn thổi
+release;/rɪˈliːs/;v:thả ra, thải ra
+remain;/rɪˈmeɪn/;v:còn lại, sót lại/v:giữ nguyên tình trạng
+routine;/ruːˈtiːn/;n:thói quen
+regular;/ˈreɡ.jə.lɚ/;adj:thường xuyên
+reflect;/rɪˈflekt/;v:phản chiếu
+relate;/rɪˈleɪt/;v:+ to liên quan tới
+relation;/rɪˈleɪ.ʃən/;n:mối quan hệ
+rounded;/ˈraʊn.dɪd/;adj:hình tròn/adj:phát triển toàn diện
+relative;/ˈrel.ə.t̬ɪv/;n:họ hàng, người thân
+relevant;/ˈrel.ə.vənt/;adj:liên quan, thích hợp
+research;/ˈriː.sɝːtʃ/;n:sự nghiên cứu/v:ngiên cứu
+response;/rɪˈspɑːns/;n:lời phản hồi, hồi âm
+resource;/ˈriː.sɔːrs/;n:nguồn/v:cung cấp tiền hay cơ sở vật chất
+recover;/rɪˈkʌv.ɚ/;v:hồi phục
+recovery;/rɪˈkʌv.ɚ.i/;n:sự hồi phục, quá trình hồi phục
+reliable;/rɪˈlaɪ.ə.bəl/;adj:đáng tin, có thể nhờ vả
+register;/ˈredʒ.ə.stɚ/;v:đăng ký
+react;/riˈækt/;v:phản ứng lại
+reaction;/riˈæk.ʃən/;n:phản ứng
+recognize;/ˈrek.əɡ.naɪz/;v:nhận ra, nhận thấy
+recommend;/ˌrek.əˈmend/;v:đề xuất, gợi ý
+recreate;/ˌriː.kriˈeɪt/;v:tái tạo/v:giải trí ngoài giờ làm việc
+recreation;/ˌrek.riˈeɪ.ʃən/;n:hoạt động giải trí ngoài công việc
+regulation;/ˌreɡ.jəˈleɪ.ʃən/;n:quy định, quy tắc, nội quy
+regulate;/ˈreɡ.jə.leɪt/;v:quy định, ra quy định
+reflection;/rɪˈflek.ʃən/;n:hình ảnh phản chiếu, sự phản chiếu
+revolution;/ˌrev.əˈluː.ʃən/;n:sự cải cách, cuộc cách mạng
+remarkable;/rɪˈmɑːr.kə.bəl/;adj:đáng chú ý, đáng ghi nhớ
+retirement;/rɪˈtaɪr.mənt/;n:sự nghỉ hưu
+responsible;/rɪˈspɑːn.sə.bəl/;adj:chịu trách nhiệm + for
+reponsibility;/rɪˌspɑːn.səˈbɪl.ə.t̬i/;n:tránh nhiệm
+relize;/ˈriː.ə.laɪz/;v:nhận ra, hiểu ra
+relization;/ˌriː.ə.ləˈzeɪ.ʃən/;n:sự nhận ra
+pollute;/pəˈluːt/;v:làm ô nhiễm
+pollution;/pəˈluː.ʃən/;n:sự ô nhiễm
+pollutant;/pəˈluː.t̬ənt/;n:chất gây ô nhiễm
+safe;/seɪf/;adj:an toàn, chắc chắn, đáng tin
+sail;/seɪl/;v:đi tàu, thuyền, nhổ neo/n:cánh buồm, chuyến đi bằng thuyền buồm
+salt;/sɒlt/;n:muối
+same;/seɪm/;adj:đều đều, đơn điệu/pron:cũng như thế, vẫn cái đó
+sand;/sænd/;n:cát
+society;/səˈsaɪ.ə.t̬i/;n:xã hội
+social;/ˈsoʊ.ʃəl/;adj:(thuộc) xã hội
+save;/seɪv/;v:cứu, lưu
+say;/seɪ/;v:nói
+scale;/skeɪl/;n:vảy (cá..)
+skeleton;/ˈskel.ə.t̬ən/;n:bộ xương
+school;/skuːl/;n:trường học
+science;/saɪəns/;n:khoa học, khoa học tự nhiên
+score;/skɔːr/;n:điểm số, bản thắng, tỷ số/v:đạt được, thành công, cho điểm
+sea;/siː/;n:biển
+search;/sɜːtʃ/;n:sự tìm kiếm, sự thăm dò, sự điều tra/v:tìm kiếm, thăm dò, điều tra
+season;/ˈsiː.zən/;n:mùa
+seat;/siːt/;n:ghế, chỗ ngồi
+second;/ˈsek.ənd/;det:thứ hai, ở vị trí thứ 2, thứ nhì/n:người về nhì
+section;/ˈsek.ʃən/;n:mục, phần
+see;/siː/;v:nhìn, nhìn thấy, quan sát
+seed;/siːd/;n:hạt, hạt giống
+seem;/siːm/;v:có vẻ như, dường như, coi bộ
+segment;/ˈseɡ.mənt/;n:đoạn, khúc, đốt, miếng;
+select;/sɪˈlekt/;v:chọn lựa, chọn lọc
+self;/self/;n:bản thân mình
+sell;/sel/;v:bán
+send;/send/;v:gửi, phái đi
+sense;/sens/;n:giác quan, tri giác, cảm giác
+sentence;/ˈsen.təns/;n:câu
+separate;/ˈsep.ər.ət/;adj:khác nhau, riêng biệt/v:làm rời, tách ra, chia tay
+serve;/sɜːv/;v:phục vụ, phụng sự
+set;/set/;n:bộ, bọn, đám, lũ/v:đặt để, bố trí
+settle;/ˈset.l̩/;v:giải quyết, dàn xếp, hòa giải, đặt, bố trí
+seven;/ˈsev.ən/;det:bảy
+several;/ˈsev.ər.əl/;det:vài
+shape;/ʃeɪp/;n:hình, hình dạng, hình thù/v:tạo hình
+share;/ʃeər/;v:đóng góp, tham gia, chia sẻ/n:phần đóng góp, phần tham gia, phần chia sẻ
+sharp;/ʃɑːp/;adj:sắc, nhọn, bén
+she;/ʃiː/;pron:bà ấy, chị ấy, cô ấy…
+sheet;/ʃiːt/;n:chăn, khăn trải giường/n:lá, tấm, phiến, tờ
+shell;/ʃel/;n:vỏ, mai/n:vẻ bề ngoài
+shine;/ʃaɪn/;v:chiếu sáng, tỏa sáng
+ship;/ʃɪp/;n:tàu, tàu thủy
+shoe;/ʃuː/;n:giày
+shop;/ʃɒp/;n:cửa hàng/v:đi mua hàng, đi chợ
+shore;/ʃɔːr/;n:bờ (biển, hồ lớn), bờ biển
+short;/ʃɔːt/;adj:ngắn, cụt
+should;/ʃʊd/;v:nên
+shoulder;/ˈʃəʊl.dər/;n:vai
+shout;/ʃaʊt/;v:hò hét, reo hò/n:sự la hét, sự hò reo
+show;/ʃəʊ/;v:biểu diễn, trưng bày/n:sự biểu diễn, sự bày tỏ
+side;/saɪd/;n:mặt, mặt phẳng
+sight;/saɪt/;n:cảnh đẹp/n:sự nhìn, tầm nhìn
+sign;/saɪn/;n:dấu, dấu hiệu, kí hiệu đánh dấu/v:viết ký hiệu, ký tên
+silent;/ˈsaɪ.lənt/;adj:im lặng, yên tĩnh
+silver;/ˈsɪl.vər/;n:bạc, đồng bạc/adj:làm bằng bạc, trắng như bạc
+similar;/ˈsɪm.ɪ.lər/;adj:giống như, tương tự như
+simple;/ˈsɪm.pl̩/;adj:đơn, đơn giản, dễ dàng
+since;/sɪns/;prep:từ, từ khi/conj:từ khi, từ lúc đó/adv:từ đó, từ lúc ấy
+sing;/sɪŋ/;v:hát, ca hát
+single;/ˈsɪŋ.ɡl̩/;adj:đơn, đơn độc, đơn lẻ
+sister;/ˈsɪs.tər/;n:chị, em gái
+cousin;/ˈkʌz.ən/;n:anh, chị, em họ
+sit;/sɪt/;v:ngồi
+six;/sɪks/;det:sáu
+size;/saɪz/;n:cỡ
+skill;/skɪl/;n:kỹ năng, kỹ xảo
+skin;/skɪn/;n:da, vỏ
+sky;/skaɪ/;n:trời, bầu trời
+slave;/sleɪv/;n:người nô lệ (đen & bóng)
+slavery;/ˈsleɪ.vər.i/;n:ách nô lệ
+sleep;/sliːp/;v:ngủ/n:giấc ngủ
+slip;/slɪp/;v:trượt, tuột, trôi qua, chạy qua
+slow;/sləʊ/;adj:chậm, chậm chạp
+small;/smɔːl/;adj:nhỏ, bé
+smell;/smel/;v:ngửi/n:sự ngửi, khứu giác, mùi
+smile;/smaɪl/;v:cười, mỉm cười/n:nụ cười, vẻ tươi cười
+snow;/snəʊ/;n:tuyết/v:tuyết rơi
+so;/səʊ/;adj:như vậy, như thế/conj:vì thế, vì vậy, vì thế cho nên
+soft;/sɒft/;adj:mềm, dẻo
+soil;/sɔɪl/;n:đất trồng/n:vết bẩn
+soldier;/ˈsəʊl.dʒər/;n:lính, quân nhân
+solution;/səˈluː.ʃən/;n:sự giải quyết, giải pháp
+solve;/sɒlv/;v:giải, giải thích, giải quyết
+some;/sʌm, səm/;det:một ít, một vài/pron:một vài (người, vật,...)
+son;/sʌn/;n:con trai
+daughter;/ˈdɑː.t̬ɚ/;n:con gái
+song;/sɒŋ/;n:bài hát
+soon;/suːn/;adv:sớm, chẳng bao lâu nữa
+sound;/saʊnd/;n:âm thanh/v:nghe
+south;/saʊθ/;n:hương Nam, hướng Nam/adj:ở phía Nam/adv:hướng về phía Nam
+space;/speɪs/;n:khoảng trống, khoảng cách
+speak;/spiːk/;v:nói
+special;/ˈspeʃ.əl/;adj:đặc biệt, riêng biệt
+speech;/spiːtʃ/;n:sự nói, khả năng nói, lời nói, cách nói, bài nói
+speed;/spiːd/;n:tốc độ, vận tốc
+spell;/spel/;v:đánh vần/n:bùa chú, bùa phép
+spend;/spend/;v:tiêu, xài
+spot;/spɔt/;n:dấu, đốm, vết
+spread;/spred/;v:trải, căng ra, bày ra/v:truyền bá
+spring;/sprɪŋ/;n:mùa xuân
+square;/skweər/;adj:vuông, vuông vắn/n:dạng hình vuông, hình vuông
+stand;/stænd/;v:đứng/n:sự đứng
+star;/stɑːr/;n:ngôi sao/v:dán sao, trang trí hình sao, đánh dấu sao
+start;/stɑːt/;v:bắt đầu, khởi động/n:sự bắt đầu, sự khởi đầu, khởi hành
+state;/steɪt/;n:nhà nước, quốc gia, chính quyền/adj:(thuộc) nhà nước, liên quan đến nhà nước/v:phát biểu, tuyên bố
+station;/ˈsteɪ.ʃən/;n:trạm, điểm, đồn
+stay;/steɪ/;v:ở lại, lưu lại/n:sự ở lại, sự lưu lại
+steam;/stiːm/;n:hơi nước
+steel;/stiːl/;n:thép, ngành thép
+step;/step/;n:bước;v:bước, bước đi
+stick;/stɪk/;v:đâm, thọc, chọc, cắm, dính/n:cái gậy, qua củi, cán
+still;/stɪl/;adj:đứng yên/adv:vẫn, vẫn còn
+stone;/stəʊn/;n:đá
+stop;/stɒp/;v:dừng, ngừng, nghỉ, thôi/n:sự dừng, sự ngừng, sự đỗ lại
+store;/stɔːr/;n:cửa hàng, kho hàng/v:tích trữ, cho vào kho
+story;/ˈstɔː.ri/;n:chuyện, câu chuyện
+straight;/streɪt/;adj:thẳng, không cong/adv:thẳng
+strange;/streɪndʒ/;adj:xa lạ, chưa quen
+stream;/striːm/;n:dòng suối
+street;/striːt/;n:phố, đường phố
+stretch;/stretʃ/;v:căng ra, duỗi ra, kéo dài ra
+string;/strɪŋ/;n:dây, sợi dây
+strong;/strɒŋ/;adj:khỏe, mạnh, bền, vững, chắc chắn
+student;/ˈstjuː.dənt/;n:sinh viên
+study;/ˈstʌd.i/;n:sự học tập, sự nghiên cứu/v:học tập, nghiên cứu
+subject;/ˈsʌb.dʒekt/;n:chủ đề, đề tài/n:chủ ngữ
+substance;/ˈsʌb.stəns/;n:chất liệu, vật chất
+subtract;/səbˈtrækt/;v:trừ (toán)
+success;/səkˈses/;n:sự thành công, sự thành đạt
+such;/sʌtʃ/;det:như thế, như vậy, như là
+sudden;/ˈsʌd.ən/;adj:thình lình, đột ngột
+sugar;/ˈʃʊɡ.ər/;n:đường
+suggest;/səˈdʒest/;v:đề nghị, đề xuất, gợi ý
+suit;/suːt/;n:bộ com lê, trang phục/v:thích hợp, quen, hợp với
+gender;/ˈdʒen.dɚ/;n:giới tính
+sex;/seks/;n:giới tính sinh học
+summer;/ˈsʌm.ər/;n:mùa hè
+sun;/sʌn/;n:mặt trời
+supply;/səˈplaɪ/;n:sự cung cấp, nguồn cung cấp/v:cung cấp, đáp ứng, tiếp tế
+support;/səˈpɔːt/;n:sự chống đỡ, sự ủng hộ/v:chống đỡ, ủng hộ
+sure;/ʃɔːr/;adj:chắc chắn, xác thực
+surface;/ˈsɜː.fɪs/;n:mặt, bề mặt
+surprise;/səˈpraɪz/;n:sự ngạc nhiên, sự bất ngờ/v:làm ngạc nhiên, gây bất ngờ
+swim;/swɪm/;v:bơi lội
+syllable;/ˈsɪl.ə.bl̩/;n:âm tiết
+symbol;/ˈsɪm.bəl/;n:biểu tượng, ký hiệu
+system;/ˈsɪs.təm/;n:hệ thống, chế độ
+talk;/tɑːk/;v:nói, nói về
+teach;/tiːtʃ/;v:dạy học
+take;/teɪk/;v:lấy, lấy khỏi/v:nhận
+think;/θɪŋk/;v:suy nghĩ
+try;/traɪ/;v:thử làm gì, cố gắng làm gì
+travel;/ˈtræv.əl/;v:du lịch, đi đường xa
+taste;/teɪst/;n:vị (của cái gì)/v:nếm vị
+type;/taɪp/;n:loại, nhóm/v:đánh máy
+thank;/θæŋk/;v:cảm ơn
+tell;/tel/;v:kể, nói với
+touch;/tʌtʃ/;v:chạm vào, sờ vào/n:một lượng nhỏ
+turn;/tɝːn/;v:di chuyển theo hướng vòng tròn/n:lượt
+throw;/θroʊ/;v:ném đi, quăng đi
+tackle;/ˈtæk.əl/;v:đánh, đương đầu, đối phó
+target;/ˈtɑːr.ɡɪt/;n:mục tiêu/v:nhắm tới
+tend;/tend/;v:thường, có xu hướng
+taunt;/tɑːnt/;v:khiêu khích
+tease;/tiːz/;v:trêu trọc
+terminate;/ˈtɝː.mə.neɪt/;v:chấm dứt
+testify;/ˈtes.tə.faɪ/;v:làm chứng
+transform;/trænsˈfɔːrm/;v:biến hình
+transformation;/ˌtræns.fɚˈmeɪ.ʃən/;n:sự biến hình
+treat;/triːt/;v:đối xử/n:quà ăn (bánh kẹo,...)
+trust;/trʌst/;v:tin tưởng
+tempt;/tempt/;v:dụ dỗ, thu hút
+attempt;/əˈtempt/;v:cố gắng/n:lần thử, lần cố gắng
+thrive;/θraɪv/;v:phát triển
+tie;/θraɪv/;v:buộc, buộc chặt/n:cái cà vạt/n:kết quả hòa
+trade;/treɪd/;v:trao đổi, mua bán/n:cuộc giao thương
+tall;/tɑːl/;adj:cao ráo
+talkative;/ˈtɑː.kə.t̬ɪv/;adj:lắm mồm, nhiều chuyện
+trustworthy;/ˈtrʌstˌwɝː.ði/;adj:đáng tin cậy
+tough;/tʌf/;adj:cứng rắn, khó
+tender;/ˈten.dɚ/;adj:mềm (thịt)
+tired;/taɪrd/;adj:mệt mỏi
+terrify;/ˈter.ə.faɪ/;v:làm hoảng sợ 
+terrified;/ˈter.ə.faɪd/;adj:bị hoảng sợ
+thoughtful;/ˈθɑːt.fəl/;adj:chu đáo
+troublesome;/ˈtrʌb.əl.səm/;adj:phiền toái
+terrible;/ˈter.ə.bəl/;adj:tồi tệ
+tight;/taɪt/;adj:chật (quần áo, giày dép,...)
+technical;/ˈtek.nɪ.kəl/;adj:liên quan đến chuyên môn
+thin;/θɪn/;adj:gầy gò, mảnh khảnh
+tidy;/ˈtaɪ.di/;adj:gọn gàng, ngăn nắp
+trendy;/ˈtren.di/;adj:theo xu hướng
+trend;/trend/;n:xu hướng, mốt
+thrilling;/ˈθrɪl.ɪŋ/;adj:kịch tính
+tedious;/ˈtiː.di.əs/;adj:chán, buồn tẻ
+today;/təˈdeɪ/;adv:vào hôm nay/n:ngày hôm nay
+tomorrow;/təˈmɔːr.oʊ/;adv:vào ngày mai/n:ngày mai
+three;/θriː/;det:ba
+two;/tuː/;det:hai
+ten;/ten/;det:mười
+eleven;/əˈlev.ən/;det:mười một
+twelve;/twelv/;det:mười hai
+thirteen;/θɝːˈtiːn/;det:mười ba
+fourteen;/ˌfɔːrˈtiːn/;det:mười bốn
+fifteen;/ˌfɪfˈtiːn/;det:mười lăm
+sixteen;/ˌsɪkˈstiːn/;det:mười sáu
+seventeen;/ˌsev.ənˈtiːn/;det:mười bảy
+eighteen;/ˌeɪˈtiːn/;det:mười tám
+nineteen;/ˌnaɪnˈtiːn/;det:mười chín
+twenty;/ˈtwen.t̬i/;det:hai mươi
+together;/təˈɡeð.ɚ/;adv:cùng nhau
+twice;/twaɪs/;adv:hai lần
+therefore;/ˈðer.fɔːr/;adv:vì vậy/conj:vì vậy, vì thế
+tradition;/trəˈdɪʃ.ən/;n:truyền thống
+traditional;/trəˈdɪʃ.ən.əl/;adj:(thuộc) truyền thống
+tropical;/ˈtrɑː.pɪ.kəl/;adj:(thuộc) vùng nhiệt đới
+tropics;/ˈtrɑp·ɪks/;n:vùng nhiệt đới
+temporary;/ˈtem.pə.rer.i/;adj:tạm thời
+time;/taɪm/;n:thời gian
+table;/ˈteɪ.bəl/;n:cái bàn
+telephone;/ˈtel.ə.foʊn/;n:điện thoại
+television;/ˈtel.ə.vɪʒ.ən/;n:TV
+teacher;/ˈtiː.tʃɚ/;n:giáo viên
+town;/taʊn/;n:thị trấn
+temperature;/ˈtem.pɚ.ə.tʃɚ/;n:nhiệt độ
+traffic;/ˈtræf.ɪk/;n:giao thông
+ticket;/ˈtɪk.ɪt/;n:vé
+tree;/triː/;n:cây cối
+train;/treɪn/;n:tàu hỏa
+bus;/bʌs/;n:xe buýt
+coach;/koʊtʃ/;v:huấn luyện/n:huấn luyện viên/n:xe khách đường dài
+trash;/træʃ/;n:rác thải
+team;/tiːm/;n:đội
+talent;/ˈtæl.ənt/;n:tài năng
+technology;/tekˈnɑː.lə.dʒi/;n:công nghệ
+term;/tɝːm/;n:kỳ (học,...)/n:thuật ngữ
+test;/test/;n:bài kiểm tra, bài kiểm thử/v:kiểm tra, kiểm thử
+text;/tekst/;n:chữ đánh máy/v:gửi tin nhắn (qua điện thoại)
+therapy;/ˈθer.ə.pi/;n:trị liệu
+thread;/θred/;n:cuộn chỉ
+trouble;/ˈtrʌb.əl/;n:rắc rối, vấn đề/v:gây rắc rối
+truth;/truːθ/;n:sự thật
+transition;/trænˈzɪʃ.ən/;n:sự vận chuyển (hàng hóa)
+transit;/ˈtræn.zɪt/;v:vận chuyển (hàng hóa)
+transfer;/ˈtræns.fɝː/;v:vận chuyển (người, vật,...)
+use;/juːz/;v:sử dụng
+unit;/ˈjuː.nɪt/;n:đơn vị
+upon;/əˈpɑːn/;prep:ở trên
+urge;/ɝːdʒ/;n:sự thúc giục/v:thúc giục
+user;/ˈjuː.zɚ/;n:người dùng
+undo;/ʌnˈduː/;v:hoàn tác
+ugly;/ˈʌɡ.li/;adj:xấu xí
+until;/ʌnˈtɪl/;conj:cho đến khi
+urban;/ˈɝː.bən/;adj:thuộc thành thị
+under;/ˈʌn.dɚ/;prep:ở dưới
+usual;/ˈjuː.ʒu.əl/;adj:bình thường, như mọi khi
+usage;/ˈjuː.sɪdʒ/;n:cách sử dụng, sự sử dụng
+union;/ˈjuː.njən/;n:liên hiệp
+upset;/ʌpˈset/;v:làm ai buồn bực, lo lắng/adj:buồn bực, lo lắng
+unite;/juːˈnaɪt/;v:đoàn kết
+uncle;/ˈʌŋ.kəl/;n:chú, bác trai
+urine;/ˈjʊr.ɪn/;n:nước tiểu
+unless;/ənˈles/;conj:trừ khi
+useful;/ˈjuːs.fəl/;adj:có ích
+unique;/juːˈniːk/;adj:độc nhất
+update;/ʌpˈdeɪt/;v:cập nhật, nâng cấp
+unfair;/ʌnˈfer/;adj:không công bằng
+unlock;/ʌnˈlɑːk/;v:mở khóa
+lock;/lɑːk/;n:cái khóa/v:khóa lại
+upload;/ʌpˈloʊd/;v:tải lên (mạng internet,...)
+dangerous;/ˈdeɪn.dʒɚ.əs/;adj:nguy hiểm
+undergo;/ˌʌn.dɚˈɡoʊ/;v:trải qua
+unusual;/ʌnˈjuː.ʒu.əl/;adj:bất thưởng
+uniform;/ˈjuː.nə.fɔːrm/;n:đồng phục
+upgrade;/ʌpˈɡreɪd/;v:nâng cấp/n:sự nâng cấp
+utility;/juːˈtɪl.ə.t̬i/;n:tiện ích
+useless;/ˈjuːs.ləs/;adj:vô dụng
+uncover;/ʌnˈkʌv.ɚ/;v:bật mí, tiết lộ, để lộ ra
+luck;/lʌk/;n:sự may mắn
+lucky;/ˈlʌk.i/;adj:may mắn
+umbrellla;/ʌmˈbrel.ə/;n:cái ô
+ultimate;/ˈʌl.tə.mət/;adj:tối thượng, cực kì
+universe;/ˈjuː.nə.vɝːs/;n:vũ trụ
+university;/ˌjuː.nəˈvɝː.sə.t̬i/;n:Đại học
+universal;/ˌjuː.nəˈvɝː.səl/;adj:mang tính toàn cầu
+underwear;/ˈʌn.dɚ.wer/;n:đồ lót
+undertake;/ˌʌn.dɚˈteɪk/;v:đảm nhận
+understand;/ˌʌn.dɚˈstænd/;v:hiểu
+understandable;/ˌʌn.dɚˈstæn.də.bəl/;adj:dễ hiểu
+underwater;/ˌʌn.dɚˈwɑː.t̬ɚ/;adj:ở dưới nước/adv:dưới nước
+unreliable;/ˌʌn.rɪˈlaɪə.bəl/;adj:không đáng tin
+undercover;/ˌʌn.dɚˈkʌv.ɚ/;adj:bí mật
+underground;/ˈʌn.dɚ.ɡraʊnd/;adj:ở dưới lòng đất/adv:dưới lòng đất
+available;/əˈveɪ.lə.bəl/;adj:có sẵn (để sử dụng)
+employ;/ɪmˈplɔɪ/;v:thuê
+employment;/ɪmˈplɔɪ.mənt/;n:sự thuê
+employee;/ˌem.plɔɪˈiː/;n:nhân viên
+view;/vjuː/;n:quan điểm, góc nhìn/v:xem
+vote;/voʊt/;v:bầu cử, đưa phiếu bầu/n:phiếu bầu
+vary;/ˈver.i/;v:khác nhau, thay đổi khác đi
+very;/ˈver.i/;adv:rất, cực
+visa;/ˈviː.zə/;n:hộ chiếu
+vine;/vaɪn/;n:cây dây leo, cây nho
+vein;/veɪn/;n:đường mạch, tĩnh mạch
+vest;/vest/;n:áo vét
+vent;/vent/;n:ống thông gió
+vase;/veɪs/;n:bình, lọ
+value;/ˈvæl.juː/;n:giá trị/v:đưa ra giá trị
+video;/ˈvɪd.i.oʊ/;n:đoạn phim được quay lại
+visit;/ˈvɪz.ɪt/;v:thăm, đến/n:chuyến thăm
+valid;/ˈvæl.ɪd/;adj:có hiệu lực
+viral;/ˈvaɪ.rəl/;adj:nổi như cồn
+voice;/vɔɪs/;n:giọng nói
+villa;/ˈvɪl.ə/;n:biệt thự
+vague;/veɪɡ/;adj:mơ hồ
+vocal;/ˈvoʊ.kəl/;n:giọng hát
+venom;/ˈvenəm/;n:nọc độc
+vital;/ˈvaɪ.t̬əl/;adj:quan trọng, cần thiết
+vivid;/ˈvɪv.ɪd/;adj:sống động
+verge;/vɝːdʒ/;n:bờ vực
+virus;/ˈvaɪ.rəs/;n:vi-rút
+volume;/ˈvɑːl.juːm/;n:âm lượng/n:sức chứa
+vision;/ˈvɪʒ.ən/;n:tầm nhìn
+vendor;/ˈven.dɚ/;n:người bán hàng
+valley;/ˈvæl.i/;n:thung lũng
+victim;/ˈvɪk.təm/;n:nạn nhân
+visual;/ˈvɪʒ.u.əl/;adj:trực quan
+vaccum;/ˈvæk.juːm/;n:máy hút bụi
+verbal;/ˈvɝː.bəl/;adj:thuộc lời nói
+voyage;/ˈvɔɪ.ɪdʒ/;n:hành trình (thường là bằng tàu thủy)
+violin;/ˌvaɪəˈlɪn/;n:đàn vi-ô-lông
+verify;/ˈver.ə.faɪ/;v:xác thực
+viewer;/ˈvjuː.ɚ/;n:người xem
+vanish;/ˈvæn.ɪʃ;v:tan biến, biến mất
+variety;/vəˈraɪ.ə.t̬i/;n:sự đa dạng
+village;/ˈvɪl.ɪdʒ/;n:làng bản
+virtual;/ˈvɝː.tʃu.əl/;adj:ảo, không có thực
+vehicle;/ˈviː.ə.kəl/;n:phương tiện đi lại (gắn máy)
+visible;/ˈvɪz.ə.bəl/;adj:có thể nhìn thấy
+villain;/ˈvɪl.ən/;n:kẻ xấu
+various;/ˈver.i.əs/;adj:đa dạng
+version;/ˈvɝː.ʃən/;n:phiên bản
+victory;/ˈvɪk.tɚ.i/;n:chiến thắng
+violent;/ˈvaɪə.lənt/;adj:mang tính bạo lực
+violence;/ˈvaɪə.ləns/;n:sự bạo lực
+vaccine;/vækˈsiːn/;n:vắc xin
+volcano;/vɑːlˈkeɪ.noʊ/;n:núi lửa
+vinegar;/ˈvɪn.ə.ɡɚ/;n:giấm
+violate;/ˈvaɪ.ə.leɪt/;v:xâm phạm
+valuable;/ˈvæl.jə.bəl/;adj:có giá trị
+vacation;/veɪˈkeɪ.ʃən/;n:kỳ nghỉ
+variable;/ˈver.i.ə.bəl/;adj:hay thay đổi, biến đổi
+volunteer;/ˌvɑː.lənˈtɪr/;n:tình nguyện viên
+valuation;/ˌvæl.juˈeɪ.ʃən/;n:sự định giá
+violation;/ˌvaɪ.əˈleɪ.ʃən/;n:sự xâm phạm
+vibrate;/ˈvaɪ.breɪt/;v:rung
+vibration;/vaɪˈbreɪ.ʃən/;n:sự rung
+vocational;/voʊˈkeɪ.ʃən.əl/;adj:học nghề
+vulnerable;/ˈvʌl.nɚ.ə.bəl/;adj:dễ bị tổn thương
+volleyball;/ˈvɑː.li.bɑːl/;n:bóng chuyền
+verification;/ˌver.ə.fəˈkeɪ.ʃən/;n:sự xác thực
+vegetable;/ˈvedʒ.tə.bəl/;n:rau củ
+wait;/weɪt/;v:chờ đợi
+walk;/wɔːk/;v:đi, đi bộ/n:sự đi bộ, sự đi dạo
+wall;/wɔːl/;n:tường, vách
+want;/wɒnt/;v:muốn
+war;/wɔːr/;n:chiến tranh
+warm;/wɔːm/;adj:ấm, ấm áp/v:làm cho nóng, hâm nóng
+wash;/wɒʃ/;v:rửa, giặt
+watch;/wɒtʃ/;v:nhìn, theo dõi, quan sát/n:sự canh gác, sự canh phòng
+water;/ˈwɔː.tər/;n:nước
+wave;/weɪv/;n:sóng, gợn nước/v:gợn sóng, uốn thành sóng
+way;/ˈweɪ/;n:đường, đường đi
+we;/wiː/;pron:chúng tôi, chúng ta
+wear;/weər/;v:mặc, mang, đeo
+weather;/ˈweð.ər/;n:thời tiết
+week;/wiːk/;n:tuần, tuần lễ
+weight;/weɪt/;n:trọng lượng
+well;/wel/;adv:tốt, giỏi/adj:tốt
+west;/west/;n:phía Tây/adj:thuộc phía Tây/adv:về phía Tây
+what;/wɒt/;pron:gì, cái gì
+wheel;/wiːl/;n:bánh xe
+when;/wen/;conj:khi/pron:lúc/adv:vào lúc nào
+where;/weər/;adv:đâu, ở đâu/conj:nơi mà
+whether;/ˈweð.ər/;conj:có..không, có… chăng
+which;/wɪtʃ/;pron:nào, bất cứ.. nào/det:ấy, đó
+while;/waɪl/;conj:trong lúc, trong khi/n:lúc, chốc, lát
+white;/waɪt/;adj:trắng/n:màu trắng
+who;/huː/;pron:ai, người nào
+whole;/həʊl/;adj:bình an vô sự, không hư hỏng/n:toàn bộ, tất cả, toàn thể
+whose;/huːz/;det:của ai
+why;/waɪ/;adv:tại sao, vì sao
+wide;/waɪd/;adj:rộng, rộng lớn
+wife;/waɪf/;n:vợ
+wild;/waɪld/;adj:dại, hoang/n:hoang dã
+will;/wɪl/;v:sẽ/n:ý chí, ý định
+win;/wɪn/;v:chiếm, đọat, thu được, thắng
+wind;/wɪnd/;n:gió
+window;/ˈwɪn.dəʊ/;n:cửa sổ
+wing;/wɪŋ/;n:cánh, sự bay, sự cất cánh
+winter;/ˈwɪn.tər/;n:mùa đông
+weak;/wiːk/;adj:yếu
+weakness;/ˈwiːk.nəs/;n:điểm yếu, sự yếu
+wire;/waɪər/;n:dây (kim loại)
+wish;/wɪʃ/;v:ước, mong muốn/n:sự mong ước, lòng mong muốn
+with;/wɪð/;prep:với, cùng
+woman;/ˈwʊm.ən/;n:đàn bà, phụ nữ (số ít)
+women;/ˈwɪm.ɪn/;n:những người phụ nữ (số nhiều)
+wonder;/ˈwʌn.dər/;v:ngạc nhiên, lấy làm lạ, kinh ngạc
+wood;/wʊd/;n:gỗ
+word;/wɜːd/;n:từ
+work;/wɜːk/;v:làm việc/n:sự làm việc
+world;/wɜːld/;n:thế giới
+write;/raɪt/;v:viết
+wrong;/rɒŋ/;adj:sai/adv:sai cách, sai hướng
+xylophone;/ˈzaɪ.ləˌfoʊn/;n:đàn phiến gỗ, mộc cầm
+x-ray;/ˈɛksˌreɪ/;n:tia X/v:chụp X quang
+xenophobia;/ˌzɛn.əˈfoʊ.bi.ə/;n:sự bài ngoại, hội chứng sợ người lạ
+xenon;/ˈziː.nɒn/;n:nguyên tố hóa học xenon
+xenography;/ˌzɪəˈrɒɡ.rə.fi/;n:kỹ thuật sao chụp điện tĩnh
+xenolith;/ˈzɛn.ə.lɪθ/;n:đá ở thể tù
+x-asis;/ˈɛks ˌæk.sɪs/;n:trục x (trục hoành)
+xanadu;/ˈzæn.əˌduː/;n:chốn bồng lai tiên cảnh
+xerophyte;/ˈzɪə.rə.faɪt/;n:cây ưa khô, cây chịu hạn
+xylene;/ˈzaɪ.liːn/;n:chất dung môi Xylen
+xenogenesis;/ˌzɛn.oʊˈdʒɛn.ə.sɪs/;n:sự dị phát sinh
+xylem;/ˈzaɪ.ləm/;n:mô mạch, mạch gỗ
+xeriscape;/ˈzɪərɪˌskeɪp/;n:cảnh quan khô hạn
+xeroderma;/ˌzɪər.oʊˈdɜr.mə/;n:bệnh khô da sắc tố
+xylograph;/ˈzaɪ.ləˌɡræf/;v:khắc gỗ/n:bản khắc gỗ, họa tiết bằng gỗ;
+xylography;/zaɪˈlɑː.ɡrə.fi/;n:nghệ thuật khắc gỗ
+xylographer;/zaɪˈlɑː.ɡrə.fər/;n:thợ khắc gỗ
+xerophthalmia;/ˌzɪə.roʊˈθæl.mi.ə/;n:bệnh khô mắt
+xenophobic;/zɛnəˈfoʊbɪk/;adj:bài ngoại
+xenial;/ˈziːniəl/;adj:hiếu khách, thân thiện
+xeric;/ˈzɛrɪk/;adj:khô cằn, chịu hạn, khan
+yard;/jɑːrd/;n:khoảng sân
+year;/jɪər/;n:năm
+yellow;/ˈjɛloʊ/;adj:vàng/n:màu vàng
+yield;/jiːld/;n:sản lượng/v:cho ra, sản sinh, sản xuất
+yolk;/joʊk/;n:lòng đỏ trứng
+youth;/juːθ/;n:tuổi trẻ
+yoga;/ˈjoʊɡə/;n:bài tập thể dục và hít thở
+yacht;/jɒt/;n:tàu du lịch
+yesterday;/ˈjɛstərdeɪ/;n:ngày hôm qua/adv:hôm qua
+yearning;/ˈjɜːrnɪŋ/;n:mong muốn mạnh mẽ và sâu sắc
+yarn;/jɑːrn/;n:sợi len
+yachtswoman;/ˈjɒtswʊmən/;n:nữ điều khiển du thuyền
+yeast;/jiːst/;n:men, nấm
+yachtman;/ˈjɒtsmən/;n:người lái du thuyền
+yawn;/jɔːn/;v:ngáp
+yellowish;/ˈjɛloʊɪʃ/;adj:màu vàng nhạt
+youthful;/ˈjuθfəl/;adj:trẻ trung, tuổi trẻ
+yummy;/ˈjʌmi/;adj:ngon miệng
+yeasty;/ˈjiːsti/;adj:mang vị men
+yellowed;/ˈjɛloʊd/;adj:bị vàng, ố vàng
+youthless;/ˈjuθləs/;adj:không còn trẻ trung, già
+yearn;/jɜːrn/;v:mong muốn mãnh liệt
+yank;/jæŋk/;v:kéo mạnh
+yet;/jet/;adv:vẫn chưa/conj:nhưng
+you;/juː/;pron:bạn, cậu (người đang nói trực tiếp)
+your;/jɚ/;det:của bạn, của cậu
+yogurt;/ˈjoʊ.ɡɚt/;n:sữa chua
+yearbook;/ˈjɪr.bʊk/;n:niên giám
+zigzag;/ˈzɪɡ.zæɡ/;n:hình díc dắc/v:di chuyển díc dắc
+witch;/wɪtʃ/;n:phù thủy
+zinc;/zɪŋk/;n:kẽm
+roundabout;/ˈraʊnd.ə.baʊt/;n:vòng xuyến
+fork;/fɔːrk/;n:cái dĩa (nĩa)
+spoon;/spuːn/;n:cái thìa
+pan;/pæn/;n:cái chảo, cái xoong
+ladder;/ˈlæd.ɚ/;n:cái thang
+bottle;/ˈbɑː.t̬əl/;n:cái chai/v:đóng chai
+colander;/ˈkɑː.lən.dɚ/;n:cái rây
+grater;/ˈɡreɪ.t̬ɚ/;n:cái bào sợi
+grind;/ɡraɪnd/;v:nghiền
+grinder;/ˈɡraɪn.dɚ/;n:đồ nghiền
+architect;/ˈɑːr.kə.tekt/;n:sư kiến trúc sư
+architecture;/ˈɑːr.kə.tek.tʃɚ/;n:kiến trúc
+basement;/ˈbeɪs.mənt/;n:tầng hầm
+stairs;/ster/;n:cầu thang bộ
+elevator;/ˈel.ə.veɪ.t̬ɚ/;n:thang máy
+drawer;/drɔːr/;n:cái tủ có ngăn kéo
+cupboard;/ˈkʌb.ɚd/;n:tủ đựng cốc chén
+curtain;/ˈkɝː.tən/;n:rèm cửa
+mat;/mæt/;n:tấm thảm
+whisk;/wɪsk/;v:đánh bông/n:dụng cụ đánh bông
+cucumber;/ˈkjuː.kʌm.bɚ/;n:dưa chuột
+lettuce;/ˈlet̬.ɪs/;n:xà lách
+pork;/pɔːrk/;n:thịt lợn
+beef;/biːf/;n:thịt bò
+chicken;/ˈtʃɪk.ɪn/;n:con gà, thịt gà
+shrimp;/ʃrɪmp/;n:tôm
+carrot;/ˈker.ət/;n:củ cà rốt
+pepper;/ˈpep.ɚ/;n:tiêu (đã xay)
+lemongrass;/ˈlem.ənˌɡræs/;n:sả
+tomato;/təˈmeɪ.t̬oʊ/;n:quả cà chua
+potato;/pəˈteɪ.t̬oʊ/;n:củ khoai tây
+cabbage;/ˈkæb.ɪdʒ/;n:bắp cải
+cheese;/tʃiːz/;n:pho mai
+wine;/waɪn/;n:rượu
+winery;/ˈwaɪ.nɚ.i/;n:trang trại sản xuất rượu
+alcohol;/ˈæl.kə.hɑːl/;n:cồn
+alcoholic;/ˌæl.kəˈhɑː.lɪk/;adj:có chứa cồn
+beer;/bɪr/;n:bia
+champion;/ˈtʃæm.pi.ən/;n:quán quân
+flexible;/ˈflek.sə.bəl/;adj:dẻo dai, dễ thay đổi để thích nghi
+flexibility;/ˌflek.səˈbɪl.ə.t̬i/;n:sự dẻo dai
+zone;/zoʊn/;n:vùng
+zero;/ˈzɪr.oʊ/;det:số không
+zebra;/ˈziː.brə/;n:con ngựa vằn
+oven;/ˈʌv.ən/;n:lò nướng
+sink;/sɪŋk/;v:chìm, đắm/n:bồn rửa
+fridge;/frɪdʒ/;n:tủ lạnh
+microwave;/ˈmaɪ.kroʊ.weɪv/;n:lò vi sóng/n:sóng vi ba
+blender;/ˈblen.dɚ/;n:máy xay
+stove;/stoʊv/;n:lò sưởi/n:bếp
+plate;/pleɪt/;n:đĩa, tấm
+bowl;/boʊl/;n:cái bát
+toaster;/ˈtoʊ.stɚ/;n:máy làm bánh mì nướng
+apron;/ˈeɪ.prən/;n:tạp dề
+basket;/ˈbæs.kət/;n:rỏ, lưới đựng
+scissors;/ˈsɪz.ɚz/;n:cây kéo
+chopstick;/ˈtʃɑːp.stɪk/;n:đũa
+pour;/pɔːr/;v:đổ vào (thường là chất lỏng)
+bakery;/ˈbeɪ.kɚ.i/;n:tiệm bánh
+bake;/beɪk/;v:nướng (trong lò)
+boil;/bɔɪl/;v:sôi, đun sôi
+chop;/tʃɑːp/;v:chặt, thái
+butcher;/ˈbʊtʃ.ɚ/;n:người bán thịt/v:giết mổ động vật lấy thịt
+drain;/dreɪn/;v:làm ráo nước
+grease;/ɡriːs/;n:mỡ, váng mỡ (thường dùng với món ăn)
+roast;/roʊst/;v:nướng (thường trên vỉ)
+acid;/ˈæs.ɪd/;n:a-xít/adj:chứa acid
+acidic;/əˈsɪd.ɪk/;adj:rất chua, có tính acid
+sour;/saʊr/;adj:chua
+spicy;/ˈspaɪ.si/;adj:cay
+salty;/ˈsɑːl.t̬i/;adj:mặn

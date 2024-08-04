@@ -5,12 +5,12 @@ import java.awt.LayoutManager;
 import javax.swing.JPanel;
 
 public class MyPanel extends JPanel{
-    public MyPanel(int x, int y, int width, int height, Color background, LayoutManager layout, boolean visible, boolean opaque) {
+    public MyPanel(int x, int y, int width, int height, Color background, LayoutManager layout, boolean visible) {
         super.setBounds(x, y, width, height);
         super.setBackground(background);
         super.setVisible(visible);
         super.setLayout(layout);
-        super.setOpaque(opaque);
+        super.setOpaque(true);
     }
 
     /**

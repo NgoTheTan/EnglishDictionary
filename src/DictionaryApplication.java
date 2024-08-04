@@ -4,6 +4,10 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
+import java.awt.event.MouseWheelEvent;
+import java.awt.event.MouseWheelListener;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
 import java.io.IOException;
@@ -16,6 +20,7 @@ import java.util.List;
 import javax.swing.BorderFactory;
 import javax.swing.ImageIcon;
 import javax.swing.JButton;
+import javax.swing.JCheckBox;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JTextField;
@@ -24,12 +29,14 @@ public class DictionaryApplication extends DictionaryManagement {
     public static final Set<Character> NOT_ALPHABET = Set.of('`', '~', '1', '!', '2', '@', '3',
             '#', '4', '$', '5', '%', '6', '^', '7', '&', '8', '*', '9', '(', '0', ')', '-', '_',
             '=', '+', '{', '[', ']', '}', '|', ':', ';', '"', ',', '<', '.', '>', '/', '?', ' ',
-            '\'', '\\');
+            '\'', '\\', 'ă', 'â', 'á', 'à', 'ạ', 'ã', 'ả', 'ê', 'è', 'ẽ', 'ẹ', 'ẻ', 'ư', 'ú',
+            'ù', 'ũ', 'ủ', 'ụ', 'í', 'ì', 'ĩ', 'ỉ', 'ị', 'ơ', 'ô', 'ò', 'õ', 'ỏ', 'ó', 'ọ',
+            'ý', 'ỷ', 'ỳ', 'ỹ', 'ỵ');
     public static final Font BIG_FONT = new Font("Montserrat", Font.BOLD, 25);
     public static final Font MED_FONT = new Font("Montserrat", Font.BOLD, 15);
     public static final Font SMALL_FONT = new Font("Montserrat", Font.BOLD, 10);
     private static String input = "";
-    private static String pronounce = "";
+    private static String word = "";
 
     private static List<String> appSearcher(String input) {
         List<String> found = new ArrayList<>();
@@ -47,17 +54,17 @@ public class DictionaryApplication extends DictionaryManagement {
     public static void runApplication() {
         MyFrame myFrame = new MyFrame();
 
-        MyLayerdPane rightPane = new MyLayerdPane(210, 0, 340, 400, Color.WHITE, true);
+        MyLayerdPane rightPane = new MyLayerdPane(210, 0, 350, 400, Color.WHITE, true);
         // Searched word panel.
         ImageIcon arrow = new ImageIcon("D:\\Study\\java\\EnglishDictionary\\src\\image\\arrow.png");
-        MyLabel english = new MyLabel(10, 10, 330, 35, null, BIG_FONT, Color.BLUE, JLabel.LEFT, JLabel.TOP,
+        MyLabel english = new MyLabel(10, 10, 250, 35, null, BIG_FONT, Color.BLUE, JLabel.LEFT, JLabel.TOP,
                 Color.WHITE);
         MyButton speaker = new MyButton(10, 45, 30, 30, false, false, JLabel.CENTER, JLabel.CENTER,
                 new ImageIcon("D:\\Study\\java\\EnglishDictionary\\src\\image\\speaker.png"), null, null);
         speaker.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 if (e.getSource() == speaker) {
-                    Speaker.pronounce(pronounce);
+                    Speaker.pronounce(word);
                 }
             }
         });
@@ -75,11 +82,30 @@ public class DictionaryApplication extends DictionaryManagement {
                 JLabel.LEFT, JLabel.TOP, JLabel.RIGHT, JLabel.CENTER, arrow, Color.WHITE);
         MyLabel meaning3 = new MyLabel(20, 230, 330, 25, null, MED_FONT, Color.BLACK, JLabel.LEFT, JLabel.TOP,
                 Color.WHITE);
-        MyLabel header = new MyLabel(0, 0, 340, 40, null, null, null, JLabel.CENTER, JLabel.CENTER,
+        MyLabel header = new MyLabel(0, 0, 350, 40, null, null, null, JLabel.CENTER, JLabel.CENTER,
                 new Color(0x003399));
         MyLabel headerText = new MyLabel(10, 0, 340, 40, null, BIG_FONT, new Color(0xFBFAF5),
                 JLabel.LEFT, JLabel.CENTER, new Color(0x003399));
-        MyPanel wordPanel = new MyPanel(0, 40, 340, 400, Color.WHITE, null, false, true);
+        JCheckBox starred = new JCheckBox(new ImageIcon("D:\\Study\\java\\EnglishDictionary\\src\\image\\unstored.png"),
+                false);
+        starred.setSelectedIcon(new ImageIcon("D:\\Study\\java\\EnglishDictionary\\src\\image\\stored.png"));
+        starred.setBounds(270, 5, 48, 48);
+        starred.setToolTipText("Thêm/xóa khỏi danh sách từ đang học");
+        starred.setAlignmentX(JCheckBox.CENTER_ALIGNMENT);
+        starred.setAlignmentY(JCheckBox.CENTER_ALIGNMENT);
+        starred.setBackground(Color.WHITE);
+        starred.addActionListener(new ActionListener() {
+            public void actionPerformed(ActionEvent e) {
+                if (e.getSource() == starred) {
+                    if (!starred.isSelected()) {
+                        doneLearning(word);
+                    } else {
+                        addToLearning(word);
+                    }
+                }
+            }
+        });
+        MyPanel wordPanel = new MyPanel(0, 40, 340, 400, Color.WHITE, null, false);
         rightPane.add(header, Integer.valueOf(0));
         rightPane.add(headerText, Integer.valueOf(1));
         wordPanel.add(english);
@@ -91,16 +117,120 @@ public class DictionaryApplication extends DictionaryManagement {
         wordPanel.add(meaning1);
         wordPanel.add(meaning2);
         wordPanel.add(meaning3);
+        wordPanel.add(starred);
         wordPanel.setPanelEnabledAndVisible(false);
         List<MyLabel> meaningList = List.of(meaning1, meaning2, meaning3);
         List<MyLabel> typeList = List.of(type1, type2, type3);
         rightPane.add(wordPanel);
-
+        // Note for adding or adjusting syntax
         MyLabel note = new MyLabel(10, 290, 330, 150,
                 "<html>Chú ý: - Các loại từ gồm n (danh từ), v (động từ),adj (tính từ),<br/> &emsp adv (trạng từ), pron (đại từ), prep (giới từ), conj (liên từ),<br/> &emsp det (từ hạn định) và interjection (thán từ).<br/> &emsp &emsp - Mỗi từ loại cần đi cùng với nghĩa tương ứng.<br/>&emsp &emsp - Ngăn cách giữa các từ loại, nghĩa bằng dấu /.</html>",
                 SMALL_FONT, Color.RED, JLabel.LEFT, JLabel.TOP, Color.WHITE);
+        // Learning panel.
+        MyButton learning1 = new MyButton(10, 10, 200, 30, null, MED_FONT, false, false,
+                JButton.LEFT, JButton.CENTER, Color.WHITE, BorderFactory.createEmptyBorder());
+        MyButton learning2 = new MyButton(10, 40, 200, 30, null, MED_FONT, false, false,
+                JButton.LEFT, JButton.CENTER, Color.WHITE, BorderFactory.createEmptyBorder());
+        MyButton learning3 = new MyButton(10, 70, 200, 30, null, MED_FONT, false, false,
+                JButton.LEFT, JButton.CENTER, Color.WHITE, BorderFactory.createEmptyBorder());
+        MyButton learning4 = new MyButton(10, 100, 200, 30, null, MED_FONT, false, false,
+                JButton.LEFT, JButton.CENTER, Color.WHITE, BorderFactory.createEmptyBorder());
+        MyButton learning5 = new MyButton(10, 130, 200, 30, null, MED_FONT, false, false,
+                JButton.LEFT, JButton.CENTER, Color.WHITE, BorderFactory.createEmptyBorder());
+        MyButton learning6 = new MyButton(10, 160, 200, 30, null, MED_FONT, false, false,
+                JButton.LEFT, JButton.CENTER, Color.WHITE, BorderFactory.createEmptyBorder());
+        MyButton learning7 = new MyButton(10, 190, 200, 30, null, MED_FONT, false, false,
+                JButton.LEFT, JButton.CENTER, Color.WHITE, BorderFactory.createEmptyBorder());
+        MyButton learning8 = new MyButton(10, 220, 200, 30, null, MED_FONT, false, false,
+                JButton.LEFT, JButton.CENTER, Color.WHITE, BorderFactory.createEmptyBorder());
+        MyButton learning9 = new MyButton(10, 250, 200, 30, null, MED_FONT, false, false,
+                JButton.LEFT, JButton.CENTER, Color.WHITE, BorderFactory.createEmptyBorder());
+        MyButton learning10 = new MyButton(10, 280, 200, 30, null, MED_FONT, false, false,
+                JButton.LEFT, JButton.CENTER, Color.WHITE, BorderFactory.createEmptyBorder());
+        List<MyButton> learningList = List.of(learning1, learning2, learning3, learning4, learning5, learning6,
+                learning7, learning8, learning9, learning10);
+        MyPanel learningPanel = new MyPanel(0, 40, 340, 400, Color.WHITE, null, false);
+        learningPanel.add(learning1);
+        learningPanel.add(learning2);
+        learningPanel.add(learning3);
+        learningPanel.add(learning4);
+        learningPanel.add(learning5);
+        learningPanel.add(learning6);
+        learningPanel.add(learning7);
+        learningPanel.add(learning8);
+        learningPanel.add(learning9);
+        learningPanel.add(learning10);
+        learningPanel.addMouseWheelListener(new MouseWheelListener() {
+            @Override
+            public void mouseWheelMoved(MouseWheelEvent e) {
+                if (learning.size() > learningList.size()) {
+                    if (e.getWheelRotation() < 0 && !learning.get(0).equalsIgnoreCase(learning1.getText())) {
+                        for (int i = 0; i < learningList.size(); i++) {
+                            learningList.get(i)
+                                    .setText(learning.get(learning.indexOf(learningList.get(i).getText()) - 1));
+                        }
+                    } else if (e.getWheelRotation() > 0
+                            && !learning.get(learning.size() - 1).equalsIgnoreCase(learning10.getText())) {
+                        for (int i = 0; i < learningList.size(); i++) {
+                            learningList.get(i)
+                                    .setText(learning.get(learning.indexOf(learningList.get(i).getText()) + 1));
+                        }
+                    }
+                }
+            }
+        });
+        for (int i = 0; i < learningList.size(); i++) {
+            MyButton temp = learningList.get(i);
+            temp.addActionListener(new ActionListener() {
+                public void actionPerformed(ActionEvent e) {
+                    if (e.getSource() == temp) {
+                        learningPanel.setPanelEnabledAndVisible(false);
+                        wordPanel.setPanelEnabledAndVisible(true);
+                        headerText.setText("Định nghĩa");
+                        starred.setSelected(true);
+                        english.setText("<HTML><U>" + temp.getText() + "</U></HTML>");
+                        word = temp.getText();
+                        pronunciation.setText(map.get(temp.getText()).getPronuciation());
+                        for (int i = 0; i < map.get(temp.getText()).getType().size(); i++) {
+                            if (map.get(temp.getText()).getType().get(i).equalsIgnoreCase("n")) {
+                                typeList.get(i).setText("<HTML><U>" + "Danh từ" + "</U></HTML>");
+                            } else if (map.get(temp.getText()).getType().get(i).equalsIgnoreCase("v")) {
+                                typeList.get(i).setText("<HTML><U>" + "Động từ" + "</U></HTML>");
+                            } else if (map.get(temp.getText()).getType().get(i).equalsIgnoreCase("adj")) {
+                                typeList.get(i).setText("<HTML><U>" + "Tính từ" + "</U></HTML>");
+                            } else if (map.get(temp.getText()).getType().get(i).equalsIgnoreCase("adv")) {
+                                typeList.get(i).setText("<HTML><U>" + "Trạng từ" + "</U></HTML>");
+                            } else if (map.get(temp.getText()).getType().get(i).equalsIgnoreCase("pron")) {
+                                typeList.get(i).setText("<HTML><U>" + "Đại từ" + "</U></HTML>");
+                            } else if (map.get(temp.getText()).getType().get(i).equalsIgnoreCase("prep")) {
+                                typeList.get(i).setText("<HTML><U>" + "Giới từ" + "</U></HTML>");
+                            } else if (map.get(temp.getText()).getType().get(i).equalsIgnoreCase("det")) {
+                                typeList.get(i).setText("<HTML><U>" + "Từ hạn định" + "</U></HTML>");
+                            } else if (map.get(temp.getText()).getType().get(i).equalsIgnoreCase("conj")) {
+                                typeList.get(i).setText("<HTML><U>" + "Liên từ" + "</U></HTML>");
+                            } else if (map.get(temp.getText()).getType().get(i)
+                                    .equalsIgnoreCase("interjection")) {
+                                typeList.get(i).setText("<HTML><U>" + "Thán từ" + "</U></HTML>");
+                            } else {
+                                typeList.get(i).setText("<HTML><U>" + "*Từ loại không phù hợp, vui lòng sửa"
+                                        + "</U></HTML>");
+                            }
+                            meaningList.get(i).setText(map.get(temp.getText()).getMeaning().get(i));
+                            typeList.get(i).setVisible(true);
+                            meaningList.get(i).setVisible(true);
+                        }
+                        for (int i = map.get(temp.getText()).getType().size(); i < typeList.size(); i++) {
+                            typeList.get(i).setVisible(false);
+                            meaningList.get(i).setVisible(false);
+                        }
+                    }
+                }
+            });
+        }
+        learningPanel.setPanelEnabledAndVisible(false);
+        rightPane.add(learningPanel);
         // Add word panel.
-        MyPanel addPanel = new MyPanel(0, 40, 340, 250, Color.WHITE, null, false, true);
+        MyPanel addPanel = new MyPanel(0, 40, 340, 250, Color.WHITE, null, false);
         MyTextField addEnglish = new MyTextField(10, 10, 250, 45, MED_FONT, JTextField.LEFT_ALIGNMENT,
                 JTextField.RIGHT_ALIGNMENT, BorderFactory.createTitledBorder("Từ tiếng anh"));
         MyTextField addPronuciation = new MyTextField(10, 60, 250, 45, MED_FONT, JTextField.LEFT_ALIGNMENT,
@@ -163,7 +293,7 @@ public class DictionaryApplication extends DictionaryManagement {
         addPanel.setPanelEnabledAndVisible(false);
         rightPane.add(addPanel);
         // Adjust word panel.
-        MyPanel adjustPanel = new MyPanel(0, 40, 340, 250, Color.WHITE, null, false, true);
+        MyPanel adjustPanel = new MyPanel(0, 40, 340, 250, Color.WHITE, null, false);
         MyTextField adjustEnglish = new MyTextField(10, 10, 250, 45, MED_FONT, JTextField.LEFT_ALIGNMENT,
                 JTextField.RIGHT_ALIGNMENT, BorderFactory.createTitledBorder("Từ tiếng anh"));
         MyTextField adjustPronuciation = new MyTextField(10, 60, 250, 45, MED_FONT, JTextField.LEFT_ALIGNMENT,
@@ -227,7 +357,7 @@ public class DictionaryApplication extends DictionaryManagement {
         adjustPanel.setPanelEnabledAndVisible(false);
         rightPane.add(adjustPanel);
         // Remove word panel
-        MyPanel removePanel = new MyPanel(0, 40, 340, 210, Color.WHITE, null, false, true);
+        MyPanel removePanel = new MyPanel(0, 40, 340, 210, Color.WHITE, null, false);
         MyTextField removeEnglish = new MyTextField(10, 20, 250, 45, MED_FONT, JTextField.LEFT_ALIGNMENT,
                 JTextField.RIGHT_ALIGNMENT, BorderFactory.createTitledBorder("Từ tiếng anh"));
         MyButton confirmRemove = new MyButton(10, 120, 150, 35, "Xóa từ", MED_FONT, false, false,
@@ -278,9 +408,17 @@ public class DictionaryApplication extends DictionaryManagement {
         MyButton word9 = new MyButton(9, 323, 191, 30, null, MED_FONT, false, false, JButton.LEFT,
                 JButton.TOP, Color.WHITE, BorderFactory.createEmptyBorder());
         List<MyButton> wordList = List.of(word1, word2, word3, word4, word5, word6, word7, word8, word9);
-        // text field to search
+        // Text field to search
         MyTextField searcher = new MyTextField(10, 50, 170, 30, MED_FONT, JTextField.LEFT_ALIGNMENT,
                 JTextField.TOP_ALIGNMENT, BorderFactory.createEmptyBorder());
+        searcher.addMouseListener(new MouseAdapter() {
+            @Override
+            public void mousePressed(MouseEvent e) {
+                if (e.getClickCount() >= 2) {
+                    input = "";
+                }
+            }
+        });
         searcher.addKeyListener(new KeyListener() {
             @Override
             public void keyTyped(KeyEvent e) {
@@ -299,6 +437,7 @@ public class DictionaryApplication extends DictionaryManagement {
                 } else {
                     input = searcher.getText();
                 }
+                System.out.println(input);
                 input = input.toLowerCase();
                 if (!input.equalsIgnoreCase("")) {
                     List<String> found = appSearcher(input);
@@ -318,19 +457,24 @@ public class DictionaryApplication extends DictionaryManagement {
                                     }
                                     if (addPanel.isVisible()) {
                                         addPanel.setPanelEnabledAndVisible(false);
-                                    }
-                                    if (adjustPanel.isVisible()) {
+                                    } else if (adjustPanel.isVisible()) {
                                         adjustPanel.setPanelEnabledAndVisible(false);
-                                    }
-                                    if (removePanel.isVisible()) {
+                                    } else if (removePanel.isVisible()) {
                                         removePanel.setPanelEnabledAndVisible(false);
+                                    } else if (learningPanel.isVisible()) {
+                                        learningPanel.setPanelEnabledAndVisible(false);
                                     }
                                     if (!wordPanel.isVisible()) {
                                         wordPanel.setPanelEnabledAndVisible(true);
                                         headerText.setText("Định nghĩa");
                                     }
+                                    if (learning.contains(temp.getText())) {
+                                        starred.setSelected(true);
+                                    } else {
+                                        starred.setSelected(false);
+                                    }
                                     english.setText("<HTML><U>" + temp.getText() + "</U></HTML>");
-                                    pronounce = temp.getText();
+                                    word = temp.getText();
                                     pronunciation.setText(map.get(temp.getText()).getPronuciation());
                                     for (int i = 0; i < map.get(temp.getText()).getType().size(); i++) {
                                         if (map.get(temp.getText()).getType().get(i).equalsIgnoreCase("n")) {
@@ -386,19 +530,19 @@ public class DictionaryApplication extends DictionaryManagement {
                     }
                     if (addPanel.isVisible()) {
                         addPanel.setPanelEnabledAndVisible(false);
-                    }
-                    if (adjustPanel.isVisible()) {
+                    } else if (adjustPanel.isVisible()) {
                         adjustPanel.setPanelEnabledAndVisible(false);
-                    }
-                    if (removePanel.isVisible()) {
+                    } else if (removePanel.isVisible()) {
                         removePanel.setPanelEnabledAndVisible(false);
+                    } else if (learningPanel.isVisible()) {
+                        learningPanel.setPanelEnabledAndVisible(false);
                     }
                     if (!wordPanel.isVisible()) {
                         wordPanel.setPanelEnabledAndVisible(true);
                         headerText.setText("Định nghĩa");
                     }
                     english.setText("<HTML><U>" + word1.getText() + "</U></HTML>");
-                    pronounce = word1.getText();
+                    word = word1.getText();
                     pronunciation.setText(map.get(word1.getText()).getPronuciation());
                     for (int i = 0; i < map.get(word1.getText()).getType().size(); i++) {
                         if (map.get(word1.getText()).getType().get(i).equalsIgnoreCase("n")) {
@@ -484,8 +628,67 @@ public class DictionaryApplication extends DictionaryManagement {
         leftPane.add(clear, Integer.valueOf(2));
         leftPane.add(searchBackground, Integer.valueOf(0));
         leftPane.add(upperSearch, Integer.valueOf(0));
+        leftPane.addMouseWheelListener(new MouseWheelListener() {
+            @Override
+            public void mouseWheelMoved(MouseWheelEvent e) {
+                if (!input.equals("") && appSearcher(input).size() > wordList.size()) {
+                    List<String> found = appSearcher(input);
+                    if (e.getWheelRotation() < 0 && !found.get(0).equalsIgnoreCase(word1.getText())) {
+                        for (int i = 0; i < wordList.size(); i++) {
+                            wordList.get(i).setText(found.get(found.indexOf(wordList.get(i).getText()) - 1));
+                        }
+                    } else if (e.getWheelRotation() > 0
+                            && !found.get(found.size() - 1).equalsIgnoreCase(word9.getText())) {
+                        for (int i = 0; i < wordList.size(); i++) {
+                            wordList.get(i).setText(found.get(found.indexOf(wordList.get(i).getText()) + 1));
+                        }
+                    }
+                }
+            }
+        });
+        // Show learning words button
+        MyButton showLearningList = new MyButton(10, 100, 190, 35, "Từ đang học", BIG_FONT,
+                new ImageIcon("D:\\Study\\java\\EnglishDictionary\\src\\image\\learning.png"), true,
+                true, JButton.LEFT, JButton.CENTER, JButton.RIGHT, JButton.CENTER, Color.WHITE,
+                BorderFactory.createMatteBorder(3, 5, 3, 2, new Color(0xFFD700)));
+        leftPane.add(showLearningList, Integer.valueOf(1));
+        showLearningList.addActionListener(new ActionListener() {
+            public void actionPerformed(ActionEvent e) {
+                if (e.getSource() == showLearningList) {
+                    if (note.isVisible()) {
+                        note.setVisible(false);
+                    }
+                    if (addPanel.isVisible()) {
+                        addPanel.setPanelEnabledAndVisible(false);
+                    } else if (adjustPanel.isVisible()) {
+                        adjustPanel.setPanelEnabledAndVisible(false);
+                    } else if (removePanel.isVisible()) {
+                        removePanel.setPanelEnabledAndVisible(false);
+                    } else if (wordPanel.isVisible()) {
+                        wordPanel.setPanelEnabledAndVisible(false);
+                    }
+                    if (!learningPanel.isVisible()) {
+                        learningPanel.setPanelEnabledAndVisible(true);
+                        headerText.setText("Từ đang học");
+                        for (int i = 0; i < learning.size(); i++) {
+                            if (i >= learningList.size()) {
+                                break;
+                            }
+                            learningList.get(i).setText(learning.get(i));
+                            learningList.get(i).setVisible(true);
+                            learningList.get(i).setEnabled(true);
+                        }
+                        for (int i = learning.size(); i < learningList.size(); i++) {
+                            learningList.get(i).setText(null);
+                            learningList.get(i).setVisible(false);
+                            learningList.get(i).setEnabled(false);
+                        }
+                    }
+                }
+            }
+        });
         // Add word button
-        MyButton addWord = new MyButton(10, 100, 190, 35, "Thêm từ", BIG_FONT,
+        MyButton addWord = new MyButton(10, 160, 190, 35, "Thêm từ", BIG_FONT,
                 new ImageIcon("D:\\Study\\java\\EnglishDictionary\\src\\image\\add.png"), true,
                 true, JButton.LEFT, JButton.CENTER, JButton.RIGHT, JButton.CENTER, Color.WHITE,
                 BorderFactory.createMatteBorder(3, 5, 3, 2, Color.GREEN));
@@ -501,11 +704,11 @@ public class DictionaryApplication extends DictionaryManagement {
                     }
                     if (wordPanel.isVisible()) {
                         wordPanel.setPanelEnabledAndVisible(false);
-                    }
-                    if (adjustPanel.isVisible()) {
+                    } else if (learningPanel.isVisible()) {
+                        learningPanel.setPanelEnabledAndVisible(false);
+                    } else if (adjustPanel.isVisible()) {
                         adjustPanel.setPanelEnabledAndVisible(false);
-                    }
-                    if (removePanel.isVisible()) {
+                    } else if (removePanel.isVisible()) {
                         removePanel.setPanelEnabledAndVisible(false);
                     }
                     if (!note.isVisible()) {
@@ -519,7 +722,7 @@ public class DictionaryApplication extends DictionaryManagement {
             }
         });
         // Adjust word button
-        MyButton adjustWord = new MyButton(10, 160, 190, 35, "Sửa từ", BIG_FONT,
+        MyButton adjustWord = new MyButton(10, 220, 190, 35, "Sửa từ", BIG_FONT,
                 new ImageIcon("D:\\Study\\java\\EnglishDictionary\\src\\image\\adjust.png"), true,
                 true, JButton.LEFT, JButton.CENTER, JButton.RIGHT, JButton.CENTER, Color.WHITE,
                 BorderFactory.createMatteBorder(3, 5, 3, 2, new Color(0xFEC20C)));
@@ -535,12 +738,12 @@ public class DictionaryApplication extends DictionaryManagement {
                     }
                     if (wordPanel.isVisible()) {
                         wordPanel.setPanelEnabledAndVisible(false);
-                    }
-                    if (addPanel.isVisible()) {
+                    } else if (addPanel.isVisible()) {
                         addPanel.setPanelEnabledAndVisible(false);
-                    }
-                    if (removePanel.isVisible()) {
+                    } else if (removePanel.isVisible()) {
                         removePanel.setPanelEnabledAndVisible(false);
+                    } else if (learningPanel.isVisible()) {
+                        learningPanel.setPanelEnabledAndVisible(false);
                     }
                     if (!note.isVisible()) {
                         note.setVisible(true);
@@ -553,7 +756,7 @@ public class DictionaryApplication extends DictionaryManagement {
             }
         });
         // Remove word button
-        MyButton removeWord = new MyButton(10, 220, 190, 35, "Xóa từ", BIG_FONT,
+        MyButton removeWord = new MyButton(10, 280, 190, 35, "Xóa từ", BIG_FONT,
                 new ImageIcon("D:\\Study\\java\\EnglishDictionary\\src\\image\\remove.png"), true,
                 true, JButton.LEFT, JButton.CENTER, JButton.RIGHT, JButton.CENTER, Color.WHITE,
                 BorderFactory.createMatteBorder(3, 5, 3, 2, Color.RED));
@@ -569,12 +772,12 @@ public class DictionaryApplication extends DictionaryManagement {
                     }
                     if (wordPanel.isVisible()) {
                         wordPanel.setPanelEnabledAndVisible(false);
-                    }
-                    if (addPanel.isVisible()) {
+                    } else if (addPanel.isVisible()) {
                         addPanel.setPanelEnabledAndVisible(false);
-                    }
-                    if (adjustPanel.isVisible()) {
+                    } else if (adjustPanel.isVisible()) {
                         adjustPanel.setPanelEnabledAndVisible(false);
+                    } else if (learningPanel.isVisible()) {
+                        learningPanel.setPanelEnabledAndVisible(false);
                     }
                     if (note.isVisible()) {
                         note.setVisible(false);
@@ -600,6 +803,7 @@ public class DictionaryApplication extends DictionaryManagement {
                         "Hello!", JOptionPane.INFORMATION_MESSAGE, image);
                 try {
                     insertFromFile();
+                    loadLearning();
                 } catch (IOException exception) {
                     System.out.println(exception.getMessage());
                 }
@@ -607,8 +811,10 @@ public class DictionaryApplication extends DictionaryManagement {
 
             @Override
             public void windowClosing(WindowEvent e) {
-                if (somethingChanged()) {
+                try {
                     exportToFile();
+                } catch (IOException exception) {
+                    System.out.println(exception.getMessage());
                 }
                 System.exit(0);
             }

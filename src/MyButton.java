@@ -62,6 +62,24 @@ public class MyButton extends JButton {
         super.setBorder(border);
     }
 
+    /**
+     * Text and image constructor.
+     * @param x
+     * @param y
+     * @param width
+     * @param height
+     * @param text
+     * @param font
+     * @param icon
+     * @param visible
+     * @param usable
+     * @param xAlignment
+     * @param yAlignment
+     * @param xTextPosition
+     * @param yTextPosition
+     * @param background
+     * @param border
+     */
     public MyButton(int x, int y, int width, int height, String text, Font font, ImageIcon icon, boolean visible,
             boolean usable, int xAlignment, int yAlignment, int xTextPosition, int yTextPosition, 
             Color background, Border border) {

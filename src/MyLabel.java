@@ -48,6 +48,23 @@ public class MyLabel extends JLabel {
         super.setIcon(icon);
     }
 
+    /**
+     * Text and image constructor.
+     * 
+     * @param x
+     * @param y
+     * @param width
+     * @param height
+     * @param text
+     * @param font
+     * @param textColor
+     * @param xAlignment
+     * @param yAlignment
+     * @param xTextPosition
+     * @param yTextPosition
+     * @param icon
+     * @param background
+     */
     public MyLabel(int x, int y, int width, int height, String text, Font font, Color textColor,
             int xAlignment, int yAlignment, int xTextPosition, int yTextPosition, ImageIcon icon, Color background) {
         super.setBounds(x, y, width, height);

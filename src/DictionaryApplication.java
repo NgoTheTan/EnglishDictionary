@@ -414,8 +414,10 @@ public class DictionaryApplication extends DictionaryManagement {
         searcher.addMouseListener(new MouseAdapter() {
             @Override
             public void mousePressed(MouseEvent e) {
-                if (e.getClickCount() >= 2) {
+                if (e.getClickCount() == 2 || e.getClickCount() == 3) {
                     input = "";
+                } else {
+                    input = searcher.getText();
                 }
             }
         });
@@ -433,10 +435,11 @@ public class DictionaryApplication extends DictionaryManagement {
                 }
                 if ((e.getKeyChar() >= 'a' && e.getKeyChar() <= 'z') || (e.getKeyChar() >= 'A' && e.getKeyChar() <= 'z')
                         || NOT_ALPHABET.contains(e.getKeyChar())) {
-                    input = searcher.getText() + e.getKeyChar();
+                    input = input + e.getKeyChar();
                 } else {
                     input = searcher.getText();
                 }
+                System.out.println(input);
                 input = input.toLowerCase();
                 if (!input.equalsIgnoreCase("")) {
                     List<String> found = appSearcher(input);

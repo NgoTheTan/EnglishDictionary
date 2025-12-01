@@ -41,7 +41,7 @@ public class MyButton extends JButton {
      * @param x
      * @param y
      * @param width
-     * @param length
+     * @param height
      * @param visible
      * @param usable
      * @param xAlignment

@@ -1,3 +1,5 @@
+vaccine
+distant
 x-asis
 branch
 lemongrass
@@ -6,4 +8,3 @@ bear
 ant
 add
 hand
-baby

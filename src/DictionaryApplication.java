@@ -38,7 +38,7 @@ public class DictionaryApplication extends DictionaryManagement {
     private static String input = "";
     private static String word = "";
 
-    private static List<String> appSearcher(String input) {
+    protected static List<String> appSearcher(String input) {
         List<String> found = new ArrayList<>();
         if (input != null) {
             for (String key : map.keySet()) {

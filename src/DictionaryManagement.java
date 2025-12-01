@@ -69,7 +69,7 @@ public class DictionaryManagement extends Dictionary {
      */
     public static void insertWord(String english, List<String> meaning, List<String> type, String pronuciation) {
         Word newWord = new Word(english, meaning, type, pronuciation);
-        map.put(english, newWord);
+        map.put(english.toLowerCase(), newWord);
         changed = true;
     }
 
